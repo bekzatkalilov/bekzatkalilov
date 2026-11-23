@@ -872,7 +872,7 @@ vec2 mapPond(vec3 p){
   res = opU(res, vec2(bush(p, vec3(11.6, 0.0, 2.6), 0.42), M_BUSH));
   float gift = sdBox(p - vec3(15.1, 0.18, 2.45), vec3(0.11)) - 0.01;
   res = opU(res, vec2(gift, M_GIFT));
-  for(int i=0;i<3;i++) res = opU(res, mushroom(p, vec4(11.9 + float(i)*0.25, 0.1 - float(i)*0.3, 0.5 + 0.15*float(i), float(i&1))));
+  for(int i=0;i<3;i++) res = opU(res, mushroom(p, vec4(10.75 + float(i)*0.3, 0.45 + float(i)*0.12, 0.5 + 0.15*float(i), float(i&1))));
   return res;
 }
 

@@ -214,7 +214,7 @@ SCENES = [
          ]),
     # ------------------------------------------------------------------ SCENE 4: the noise, and Mama
     dict(id='s4', title='Scene 4 - Too many voices', loc='nest', tod='noon', mind=True,
-         cast={'tiko': (-14.9, -0.1, -0.15), 'sparky': (-15.5, -0.75, 0.0), 'mama': (-11.9, 0.7, PI + 0.3)},
+         cast={'tiko': (-14.9, -0.1, -0.15), 'sparky': (-15.5, -0.75, 0.0), 'mama': (-10.3, 0.9, PI + 0.3)},
          beats=[
              C('walk_track'),
              M('tiko', -13.75, -0.05, -0.05, 4.0),
@@ -301,7 +301,7 @@ SCENES = [
          ]),
     # ------------------------------------------------------------------ SCENE 6: the star cracks
     dict(id='s6', title='Scene 6 - One piece of the sky', loc='pond', tod='sunset', mind=True,
-         cast={'tiko': (13.4, -0.55, -0.1), 'prof': (10.6, -0.6, -0.05)},
+         cast={'tiko': (13.4, -0.55, -0.1), 'prof': (10.2, -0.55, -0.05)},
          beats=[
              C('sunset_wide'),
              P(2.0),
@@ -317,7 +317,8 @@ SCENES = [
              L('tiko', "Stop! Stop it! I don't want to hear anymore!", 'overwhelmed', look='down', loud=True, gap=0.9),
              E('star_dim', 1.6),
              C('prof_arrive'),
-             M('prof', 12.45, -0.45, 0.05, 5.0),
+             M('prof', 11.75, -0.45, 0.05, 5.0),
+             M('tiko', 13.4, -0.55, PI - 0.25, 1.4),
              L('prof', 'There you are. I came as fast as I could.', 'tender', look='tiko', gap=0.4),
              L('prof', 'Which, admittedly, took about three hours.', 'deadpan', look='tiko', gap=0.6),
              C('cu', who='tiko'),

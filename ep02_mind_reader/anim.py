@@ -1335,6 +1335,13 @@ def uniforms(t):
     e = ev(fr, 'surprise')
     if e and t > e['t1']:
         conf = t - e['t1']
+    # s7 opens in near-darkness so the party guests stay hidden until the lanterns blaze
+    if st.id == 's7':
+        e = ev(fr, 'surprise')
+        dk = 0.14 + 0.86 * (smooth((t - e['t1'] + 0.05) / 0.25) if e else 1.0)
+        u['uSunCol'] = mul(tod[1], dk)
+        u['uAmbCol'] = mul(tod[5], dk)
+        u['uKeyCol'] = mul(tod[6], 0.45 + 0.55 * dk)
     u['uEnv'] = (tod[7], tod[8], tod[9], LOC_ID[d['loc']])
     u['uParty'] = (party, lit, 1.0 if (d.get('party') and d['tod'] == 'night') else 0.0, conf)
     # night: before the lanterns, keep moonlight; when lit, warm lights
