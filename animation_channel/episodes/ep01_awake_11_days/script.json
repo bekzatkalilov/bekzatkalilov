@@ -1,0 +1,959 @@
+{
+ "title": "What If You Stayed Awake for 11 Days?",
+ "duration": 510,
+ "voices": {
+  "N": "am_michael",
+  "KIP": "am_puck",
+  "MAX": "am_liam",
+  "DOC": "bf_emma"
+ },
+ "beats": [
+  {
+   "s": "haunt",
+   "v": "N",
+   "t": "Day four. No sleep. And there's someone standing in the corner of your room.",
+   "hl": [
+    "someone"
+   ],
+   "k": "fear",
+   "p": "scared",
+   "a": "figure",
+   "sfx": [
+    "boom",
+    "heart"
+   ]
+  },
+  {
+   "s": "haunt",
+   "v": "N",
+   "t": "You blink... and they're gone.",
+   "hl": [
+    "gone."
+   ],
+   "k": "surprise",
+   "p": "surprise",
+   "a": "vanish",
+   "sfx": [
+    "glitch"
+   ]
+  },
+  {
+   "s": "haunt",
+   "v": "N",
+   "t": "This is what happens when you try to stay awake for eleven days. And a real teenager actually did it.",
+   "hl": [
+    "eleven",
+    "real"
+   ],
+   "k": "confused",
+   "p": "think",
+   "a": "calm"
+  },
+  {
+   "s": "title",
+   "v": "N",
+   "t": "What if you stayed awake for eleven days straight?",
+   "hl": [
+    "eleven",
+    "days"
+   ],
+   "card": "WHAT IF YOU NEVER SLEPT?",
+   "sfx": [
+    "riser",
+    "impact"
+   ]
+  },
+  {
+   "s": "flash",
+   "v": "N",
+   "t": "San Diego, December, nineteen sixty-three. A seventeen-year-old named Randy Gardner had a wild idea for his school science fair.",
+   "hl": [
+    "Randy",
+    "Gardner"
+   ],
+   "a": "intro",
+   "sfx": [
+    "whoosh",
+    "projector"
+   ]
+  },
+  {
+   "s": "flash",
+   "v": "N",
+   "t": "He would stay awake longer than any human ever recorded. No coffee. No pills. Just pure willpower.",
+   "hl": [
+    "willpower."
+   ],
+   "a": "clock"
+  },
+  {
+   "s": "flash",
+   "v": "N",
+   "t": "His friends watched him around the clock, and a Stanford sleep scientist showed up to take notes.",
+   "hl": [
+    "Stanford"
+   ],
+   "a": "friends"
+  },
+  {
+   "s": "flash",
+   "v": "N",
+   "t": "Eleven days later, Randy had set a record so extreme that Guinness World Records eventually stopped accepting attempts to beat it.",
+   "hl": [
+    "record",
+    "Guinness"
+   ],
+   "a": "paper",
+   "sfx": [
+    "stamp"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "So today, you're going to try it too.",
+   "hl": [
+    "you're"
+   ],
+   "k": "excited",
+   "p": "point",
+   "a": "day",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "MAX",
+   "t": "Eleven days? You can't even stay up past midnight.",
+   "hl": [
+    "midnight."
+   ],
+   "k": "neutral",
+   "p": "idle",
+   "a": "maxIn"
+  },
+  {
+   "s": "room",
+   "v": "KIP",
+   "t": "Watch me.",
+   "hl": [
+    "Watch"
+   ],
+   "k": "angry",
+   "p": "point",
+   "a": "max"
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "Your friend Max is in charge of keeping you awake. The rules are simple. No naps. No microsleeps. Not even a blink that lasts too long.",
+   "hl": [
+    "No",
+    "naps."
+   ],
+   "k": "happy",
+   "p": "idle",
+   "a": "max"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Hour sixteen. It's two in the morning, and honestly? You feel fine.",
+   "hl": [
+    "fine."
+   ],
+   "card": "HOUR 16",
+   "sub": "2:00 AM",
+   "sfx": [
+    "tick",
+    "impact"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "Maybe a little wired. Your brain makes a chemical called adenosine, and every hour you stay awake, more of it builds up.",
+   "hl": [
+    "adenosine,"
+   ],
+   "k": "excited",
+   "p": "cheer",
+   "a": "night"
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "Your body, however, knows exactly what time it is. Your temperature is dropping, and your internal clock is flooding you with signals that scream: it's night. Go to bed.",
+   "hl": [
+    "Go",
+    "to",
+    "bed."
+   ],
+   "k": "neutral",
+   "p": "idle",
+   "a": "yawn"
+  },
+  {
+   "s": "brain",
+   "v": "N",
+   "t": "Think of adenosine like sand piling up in your head. Sleep is what sweeps it away. Tonight, nobody is sweeping.",
+   "hl": [
+    "sand",
+    "nobody"
+   ],
+   "a": "sand",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "Coffee would help. Caffeine blocks adenosine from docking in your brain. But it doesn't remove the sand. It just hides it.",
+   "hl": [
+    "hides"
+   ],
+   "k": "happy",
+   "p": "point",
+   "a": "coffee"
+  },
+  {
+   "s": "room",
+   "v": "MAX",
+   "t": "Put the coffee down. Rules are rules.",
+   "hl": [
+    "coffee"
+   ],
+   "k": "sad",
+   "p": "sad",
+   "a": "coffeeMax"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Hour twenty-four. One full day.",
+   "hl": [
+    "One",
+    "day."
+   ],
+   "card": "HOUR 24",
+   "sub": "DAY 1 COMPLETE",
+   "sfx": [
+    "tick",
+    "impact"
+   ]
+  },
+  {
+   "s": "car",
+   "v": "N",
+   "t": "In the morning, you decide to drive out for breakfast. Bad idea.",
+   "hl": [
+    "Bad",
+    "idea."
+   ],
+   "k": "happy",
+   "a": "drive",
+   "sfx": [
+    "engine"
+   ]
+  },
+  {
+   "s": "car",
+   "v": "N",
+   "t": "Here's something wild. After twenty-four hours awake, your reactions are about as slow as someone who is legally drunk.",
+   "hl": [
+    "drunk."
+   ],
+   "k": "neutral",
+   "a": "drive",
+   "sfx": [
+    "engine"
+   ]
+  },
+  {
+   "s": "car",
+   "v": "N",
+   "t": "And your brain starts doing something terrifying. Microsleeps.",
+   "hl": [
+    "Microsleeps."
+   ],
+   "k": "fear",
+   "a": "drive"
+  },
+  {
+   "s": "car",
+   "v": "N",
+   "t": "For a few seconds, parts of your brain simply switch off. Your eyes stay open. But nobody's home.",
+   "hl": [
+    "switch",
+    "off.",
+    "nobody's"
+   ],
+   "k": "neutral",
+   "a": "micro",
+   "sfx": [
+    "glitch"
+   ]
+  },
+  {
+   "s": "car",
+   "v": "N",
+   "t": "At highway speed, a four-second microsleep means driving the length of a football field with your eyes open, and your brain asleep.",
+   "hl": [
+    "football",
+    "field"
+   ],
+   "k": "neutral",
+   "a": "micro2"
+  },
+  {
+   "s": "car",
+   "v": "MAX",
+   "t": "Hey! Wake up!",
+   "hl": [
+    "Wake"
+   ],
+   "k": "surprise",
+   "a": "honk",
+   "sfx": [
+    "horn"
+   ]
+  },
+  {
+   "s": "car",
+   "v": "N",
+   "t": "Which is why, for the rest of this challenge, Max takes your car keys.",
+   "hl": [
+    "keys."
+   ],
+   "k": "sad",
+   "a": "keys"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Day two. Something is happening inside your head that you can't even feel.",
+   "hl": [
+    "inside"
+   ],
+   "card": "DAY 2",
+   "sub": "HOUR 36",
+   "sfx": [
+    "tick",
+    "impact"
+   ]
+  },
+  {
+   "s": "brain",
+   "v": "N",
+   "t": "Scientists discovered that during deep sleep, gaps between your brain cells open up, and fluid rushes through, washing away the waste your brain made all day.",
+   "hl": [
+    "washing"
+   ],
+   "a": "wash"
+  },
+  {
+   "s": "brain",
+   "v": "N",
+   "t": "One of those waste products is a sticky protein called beta amyloid, the same stuff linked to Alzheimer's disease.",
+   "hl": [
+    "beta",
+    "amyloid,"
+   ],
+   "a": "amyloid"
+  },
+  {
+   "s": "brain",
+   "v": "N",
+   "t": "In one study, a single night without sleep was enough to raise it in people's brains. You've now skipped two.",
+   "hl": [
+    "two."
+   ],
+   "a": "amyloid2"
+  },
+  {
+   "s": "flash",
+   "v": "N",
+   "t": "Randy, by the way, was already struggling by day two. He got moody and clumsy, and he had trouble focusing his eyes, so he had to give up watching TV.",
+   "hl": [
+    "give",
+    "up"
+   ],
+   "a": "tv",
+   "sfx": [
+    "projector"
+   ]
+  },
+  {
+   "s": "kitchen",
+   "v": "N",
+   "t": "Meanwhile, your stomach has gone rogue. Your body pumps out more ghrelin, the hunger hormone, and less leptin, the hormone that tells you you're full.",
+   "hl": [
+    "ghrelin,",
+    "leptin,"
+   ],
+   "k": "happy",
+   "p": "idle",
+   "a": "fridge",
+   "sfx": [
+    "whoosh",
+    "fridge"
+   ]
+  },
+  {
+   "s": "kitchen",
+   "v": "N",
+   "t": "So at four in the morning, you're standing in front of the fridge, eating cold pizza, and you don't even remember walking here.",
+   "hl": [
+    "pizza,"
+   ],
+   "k": "happy",
+   "p": "idle",
+   "a": "pizza"
+  },
+  {
+   "s": "kitchen",
+   "v": "MAX",
+   "t": "Dude. That was my pizza.",
+   "hl": [
+    "my"
+   ],
+   "k": "surprise",
+   "p": "surprise",
+   "a": "maxPizza"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Day three. This is where things start to get weird.",
+   "hl": [
+    "weird."
+   ],
+   "card": "DAY 3",
+   "sub": "HOUR 60",
+   "sfx": [
+    "tick",
+    "impact"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "Your emotions go haywire. Researchers found that the brain's fear center, the amygdala, became about sixty percent more reactive after a night without sleep.",
+   "hl": [
+    "sixty",
+    "percent"
+   ],
+   "k": "fear",
+   "p": "scared",
+   "a": "amygdala"
+  },
+  {
+   "s": "room",
+   "v": "MAX",
+   "t": "Hey. Want some toast?",
+   "hl": [
+    "toast?"
+   ],
+   "k": "neutral",
+   "p": "idle",
+   "a": "toast"
+  },
+  {
+   "s": "room",
+   "v": "KIP",
+   "t": "Why would you SAY that to me?!",
+   "hl": [
+    "SAY"
+   ],
+   "k": "sad",
+   "p": "sad",
+   "a": "cry",
+   "sfx": [
+    "sob"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "You cry. Then you laugh. Then you're furious. Then you forget what you were furious about.",
+   "hl": [
+    "cry.",
+    "laugh.",
+    "furious."
+   ],
+   "k": "angry",
+   "p": "point",
+   "a": "mood"
+  },
+  {
+   "s": "lab",
+   "v": "N",
+   "t": "To see what's going on, you visit a sleep lab.",
+   "hl": [
+    "sleep",
+    "lab."
+   ],
+   "k": "neutral",
+   "p": "idle",
+   "a": "enter",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "s": "lab",
+   "v": "DOC",
+   "t": "Your brain waves look half asleep, even with your eyes wide open.",
+   "hl": [
+    "half",
+    "asleep,"
+   ],
+   "k": "surprise",
+   "p": "idle",
+   "a": "eeg"
+  },
+  {
+   "s": "lab",
+   "v": "N",
+   "t": "Your words start slurring. Simple math feels impossible. Randy was asked to count backwards from one hundred by sevens. He got to sixty-five, and just stopped.",
+   "hl": [
+    "sevens.",
+    "stopped."
+   ],
+   "k": "confused",
+   "p": "think",
+   "a": "math",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "s": "lab",
+   "v": "DOC",
+   "t": "Why did you stop?",
+   "hl": [
+    "stop?"
+   ],
+   "k": "confused",
+   "p": "think",
+   "a": "doc"
+  },
+  {
+   "s": "lab",
+   "v": "KIP",
+   "t": "Stop... what?",
+   "hl": [
+    "what?"
+   ],
+   "k": "confused",
+   "p": "shrug",
+   "a": "doc"
+  },
+  {
+   "s": "lab",
+   "v": "N",
+   "t": "He said he had forgotten what he was doing.",
+   "hl": [
+    "forgotten"
+   ],
+   "k": "sad",
+   "p": "idle",
+   "a": "doc"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Day four. Remember the figure in the corner?",
+   "hl": [
+    "figure"
+   ],
+   "card": "DAY 4",
+   "sub": "HOUR 84",
+   "sfx": [
+    "tick",
+    "boom"
+   ]
+  },
+  {
+   "s": "halluc",
+   "v": "N",
+   "t": "Your brain is now so desperate for sleep, it starts dreaming while you're still awake.",
+   "hl": [
+    "dreaming"
+   ],
+   "k": "fear",
+   "p": "scared",
+   "a": "warp",
+   "sfx": [
+    "drone"
+   ]
+  },
+  {
+   "s": "halluc",
+   "v": "N",
+   "t": "The walls seem to breathe. Patterns crawl across the floor. Shadows move at the edge of your vision.",
+   "hl": [
+    "breathe.",
+    "Shadows"
+   ],
+   "k": "fear",
+   "p": "scared",
+   "a": "shadows"
+  },
+  {
+   "s": "halluc",
+   "v": "N",
+   "t": "Randy hallucinated too. At one point he mistook a street sign for a person, and he became convinced he was a famous football player.",
+   "hl": [
+    "street",
+    "sign",
+    "football"
+   ],
+   "k": "surprise",
+   "p": "surprise",
+   "a": "sign"
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "Then paranoia creeps in. You start to think Max is secretly working against you.",
+   "hl": [
+    "paranoia"
+   ],
+   "k": "angry",
+   "p": "idle",
+   "a": "paranoid"
+  },
+  {
+   "s": "room",
+   "v": "MAX",
+   "t": "Uh... why are you staring at me like that?",
+   "hl": [
+    "staring"
+   ],
+   "k": "angry",
+   "p": "idle",
+   "a": "paranoid2"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Day five. You can't remember yesterday. Literally.",
+   "hl": [
+    "Literally."
+   ],
+   "card": "DAY 5",
+   "sub": "HOUR 120",
+   "sfx": [
+    "tick",
+    "impact"
+   ]
+  },
+  {
+   "s": "brain",
+   "v": "N",
+   "t": "Deep inside your brain, the hippocampus works like a memory inbox. Sleep is when it saves the day's files for good.",
+   "hl": [
+    "memory",
+    "inbox."
+   ],
+   "a": "inbox"
+  },
+  {
+   "s": "brain",
+   "v": "N",
+   "t": "Without sleep, the inbox overflows. In one study, sleep-deprived people were about forty percent worse at forming new memories.",
+   "hl": [
+    "forty",
+    "percent"
+   ],
+   "a": "overflow",
+   "sfx": [
+    "glitch"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "N",
+   "t": "By day six, Max is the one struggling. It turns out babysitting a sleep zombie is exhausting.",
+   "hl": [
+    "zombie"
+   ],
+   "k": "neutral",
+   "p": "idle",
+   "a": "maxTired"
+  },
+  {
+   "s": "room",
+   "v": "KIP",
+   "t": "Hey. Hey! No sleeping. Rules are rules.",
+   "hl": [
+    "Rules"
+   ],
+   "k": "angry",
+   "p": "point",
+   "a": "poke"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Day seven. You're past the halfway point, and your body is starting to fall apart.",
+   "hl": [
+    "fall",
+    "apart."
+   ],
+   "card": "DAY 7",
+   "sub": "HOUR 168",
+   "sfx": [
+    "tick",
+    "impact"
+   ]
+  },
+  {
+   "s": "info",
+   "v": "N",
+   "t": "Your immune defenses weaken. Your blood sugar control slips toward levels doctors see in pre-diabetes. And you feel cold all the time.",
+   "hl": [
+    "immune",
+    "cold"
+   ],
+   "k": "sad",
+   "a": "body"
+  },
+  {
+   "s": "info",
+   "v": "N",
+   "t": "And here's the darkest part. In the nineteen-eighties, scientists kept rats awake without stopping. Within a few weeks, every single one of them died.",
+   "hl": [
+    "every",
+    "single"
+   ],
+   "a": "rats",
+   "sfx": [
+    "boom"
+   ]
+  },
+  {
+   "s": "info",
+   "v": "N",
+   "t": "Nobody knows exactly where the human limit is, because no scientist would ever let anyone find out.",
+   "hl": [
+    "limit"
+   ],
+   "a": "limit"
+  },
+  {
+   "s": "info",
+   "v": "N",
+   "t": "There's even a rare genetic disease called fatal familial insomnia, where people slowly lose the ability to sleep at all.",
+   "hl": [
+    "fatal",
+    "familial",
+    "insomnia,"
+   ],
+   "a": "ffi"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Day ten. Your face looks blank. Your eyes won't focus. Your voice is slow and flat.",
+   "hl": [
+    "blank."
+   ],
+   "card": "DAY 10",
+   "sub": "HOUR 240",
+   "sfx": [
+    "tick",
+    "impact"
+   ]
+  },
+  {
+   "s": "arcade",
+   "v": "N",
+   "t": "And yet, something strange happens. Some parts of you still work. On his final night, Randy beat the sleep scientist at pinball. Over and over again.",
+   "hl": [
+    "pinball."
+   ],
+   "k": "happy",
+   "p": "idle",
+   "a": "pinball",
+   "sfx": [
+    "whoosh",
+    "arcade"
+   ]
+  },
+  {
+   "s": "brain",
+   "v": "N",
+   "t": "Your brain is quietly cheating. Tiny groups of neurons take turns nodding off, like a city switching off one light at a time.",
+   "hl": [
+    "cheating."
+   ],
+   "a": "city"
+  },
+  {
+   "s": "card",
+   "v": "N",
+   "t": "Hour two hundred sixty-four. Eleven days. You did it. You tied the record.",
+   "hl": [
+    "You",
+    "did",
+    "it."
+   ],
+   "card": "HOUR 264",
+   "sub": "RECORD TIED",
+   "sfx": [
+    "riser",
+    "impact"
+   ]
+  },
+  {
+   "s": "room",
+   "v": "MAX",
+   "t": "No way. You actually did it!",
+   "hl": [
+    "did",
+    "it!"
+   ],
+   "k": "excited",
+   "p": "cheer",
+   "a": "party",
+   "sfx": [
+    "confetti"
+   ]
+  },
+  {
+   "s": "bed",
+   "v": "N",
+   "t": "And then... you sleep.",
+   "hl": [
+    "sleep."
+   ],
+   "a": "fall",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "s": "bed",
+   "v": "N",
+   "t": "Randy slept for about fourteen hours. When he woke up, he felt mostly normal again.",
+   "hl": [
+    "fourteen",
+    "hours."
+   ],
+   "a": "sleep"
+  },
+  {
+   "s": "bed",
+   "v": "N",
+   "t": "Doctors found no serious lasting damage. But decades later, Randy told reporters he struggled with insomnia for years.",
+   "hl": [
+    "insomnia"
+   ],
+   "a": "sleep2"
+  },
+  {
+   "s": "bed",
+   "v": "N",
+   "t": "Your brain is amazing at catching up. It doesn't pay back every lost hour. Instead, it dives into extra deep sleep and extra dreaming, to repair what matters most.",
+   "hl": [
+    "deep",
+    "sleep"
+   ],
+   "a": "dream"
+  },
+  {
+   "s": "bed",
+   "v": "N",
+   "t": "So that's the happy ending. Right?",
+   "hl": [
+    "happy",
+    "ending."
+   ],
+   "k": "happy",
+   "a": "wake"
+  },
+  {
+   "s": "bed",
+   "v": "N",
+   "t": "Well... here's the twist.",
+   "hl": [
+    "twist."
+   ],
+   "k": "confused",
+   "a": "twist",
+   "sfx": [
+    "boom"
+   ]
+  },
+  {
+   "s": "city",
+   "v": "N",
+   "t": "Almost no one will ever stay awake for eleven days. But about one in three adults regularly sleeps less than seven hours a night.",
+   "hl": [
+    "one",
+    "in",
+    "three"
+   ],
+   "a": "windows",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "s": "city",
+   "v": "N",
+   "t": "In one experiment, two weeks of sleeping six hours a night hurt people's focus as badly as staying up for two nights straight. And the scariest part? They only felt a little sleepy.",
+   "hl": [
+    "two",
+    "nights",
+    "little"
+   ],
+   "a": "chart"
+  },
+  {
+   "s": "phone",
+   "v": "N",
+   "t": "Which means the most dangerous version of this experiment might be the one you're running right now.",
+   "hl": [
+    "right",
+    "now."
+   ],
+   "k": "neutral",
+   "a": "phone",
+   "sfx": [
+    "drone"
+   ]
+  },
+  {
+   "s": "phone",
+   "v": "N",
+   "t": "So... how many hours did you sleep last night?",
+   "hl": [
+    "last",
+    "night?"
+   ],
+   "k": "neutral",
+   "a": "look"
+  },
+  {
+   "s": "outro",
+   "v": "N",
+   "t": "If you made it this far without falling asleep, subscribe, and tell us in the comments: what should Kip try next?",
+   "hl": [
+    "subscribe,",
+    "next?"
+   ],
+   "k": "happy",
+   "p": "wave",
+   "a": "end",
+   "sfx": [
+    "whoosh",
+    "ding"
+   ]
+  }
+ ]
+}

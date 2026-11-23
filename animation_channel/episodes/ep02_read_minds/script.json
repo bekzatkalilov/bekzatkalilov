@@ -1,0 +1,1402 @@
+{
+ "title": "What If You Could Read Everyone's Mind?",
+ "duration": 510,
+ "voices": {
+  "N": "am_michael",
+  "KIP": "am_puck",
+  "MAX": "am_liam",
+  "MOM": "af_heart",
+  "GRAN": "bm_george",
+  "COCO": "bf_lily",
+  "MAIL": "am_fenrir",
+  "LADY": "af_jessica",
+  "BAKER": "bm_lewis",
+  "JOG": "af_river",
+  "DOG": "am_echo"
+ },
+ "names": {
+  "N": "NARRATOR",
+  "KIP": "KIP",
+  "MAX": "MAX",
+  "MOM": "MOM",
+  "GRAN": "GRANDPA SHELBY",
+  "COCO": "COCO",
+  "MAIL": "MAILMAN",
+  "LADY": "LADY",
+  "BAKER": "BAKER",
+  "JOG": "JOGGER",
+  "DOG": "DOG WALKER"
+ },
+ "beats": [
+  {
+   "v": null,
+   "a": "hookOpen",
+   "dur": 0.9,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "ring"
+   ],
+   "m": "tense",
+   "s": "hook"
+  },
+  {
+   "v": "COCO",
+   "t": "Don't let Kip find out!",
+   "k": "fear",
+   "p": "scared",
+   "mode": "think",
+   "a": "b1",
+   "s": "hook"
+  },
+  {
+   "v": "GRAN",
+   "t": "He must never know...",
+   "mode": "think",
+   "a": "b2",
+   "s": "hook"
+  },
+  {
+   "v": "MAX",
+   "t": "Tonight... everything changes.",
+   "mode": "think",
+   "a": "b3",
+   "s": "hook"
+  },
+  {
+   "v": "KIP",
+   "t": "Wait... I can hear what everyone is THINKING?!",
+   "k": "surprise",
+   "p": "surprise",
+   "a": "shout",
+   "hl": [
+    "thinking?!"
+   ],
+   "sfx": [
+    "impact"
+   ],
+   "s": "hook"
+  },
+  {
+   "v": null,
+   "a": "title",
+   "dur": 4.6,
+   "sfx": [
+    "riser",
+    "shimmer"
+   ],
+   "m": "magic",
+   "s": "title"
+  },
+  {
+   "v": "N",
+   "t": "One morning, a few hours earlier...",
+   "a": "establish",
+   "m": "bounce",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip! Watch this! My best throw ever!",
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "max": "excited"
+   },
+   "a": "ball",
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "Last time you did that, you broke my window.",
+   "k": "neutral",
+   "p": "shrug",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "That was one time!",
+   "e": {
+    "max": "angry"
+   },
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "It was four times. This week.",
+   "k": "neutral",
+   "p": "idle",
+   "hl": [
+    "four"
+   ],
+   "s": "yard"
+  },
+  {
+   "v": null,
+   "a": "throw",
+   "dur": 2.4,
+   "e": {
+    "max": "excited"
+   },
+   "sfx": [
+    "whoosh"
+   ],
+   "s": "yard"
+  },
+  {
+   "v": null,
+   "a": "starfall",
+   "dur": 3.2,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "max": "surprise"
+   },
+   "sfx": [
+    "fall",
+    "boom"
+   ],
+   "m": "magic",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "...Did I just knock a star out of the sky?",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "crater",
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "You knocked a STAR out of the sky!",
+   "k": "excited",
+   "p": "cheer",
+   "a": "crater",
+   "hl": [
+    "star"
+   ],
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "Whoa... it's warm. And it's humming.",
+   "k": "happy",
+   "p": "think",
+   "a": "near",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "Don't touch it! What if it's radioactive? What if it's an alien egg?!",
+   "e": {
+    "max": "fear"
+   },
+   "a": "near",
+   "s": "yard"
+  },
+  {
+   "v": null,
+   "a": "touch",
+   "dur": 2.6,
+   "k": "surprise",
+   "p": "point",
+   "e": {
+    "max": "fear"
+   },
+   "sfx": [
+    "ring",
+    "impact",
+    "shimmer"
+   ],
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "Ow... my ears are buzzing. Max, did you say something?",
+   "k": "confused",
+   "p": "idle",
+   "a": "glow",
+   "m": "curious",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "Nope. I'm totally fine. Not hungry at all.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "I'm SO hungry. I could eat a whole pizza. With the box.",
+   "mode": "think",
+   "e": {
+    "max": "happy"
+   },
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "...You're hungry.",
+   "k": "neutral",
+   "p": "idle",
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "How did you know that?",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "You just said it. \"With the box.\"",
+   "k": "confused",
+   "p": "shrug",
+   "a": "glow",
+   "hl": [
+    "box.\""
+   ],
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "I did NOT say that out loud!",
+   "e": {
+    "max": "fear"
+   },
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "Okay... think of a number. Any number.",
+   "k": "happy",
+   "p": "think",
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "Seven. No, too easy. Eleventy-twelve!",
+   "mode": "think",
+   "e": {
+    "max": "happy"
+   },
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "Eleventy-twelve isn't a number.",
+   "k": "neutral",
+   "p": "shrug",
+   "a": "glow",
+   "hl": [
+    "eleventy-twelve"
+   ],
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "AAAH! You're inside my head! Get out! It's messy in there!",
+   "e": {
+    "max": "fear"
+   },
+   "a": "glow",
+   "sfx": [
+    "boing"
+   ],
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "Max... I think this star lets me read minds.",
+   "k": "surprise",
+   "p": "idle",
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "MAX",
+   "t": "That's the coolest thing that has ever happened. And also the scariest.",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "glow",
+   "s": "yard"
+  },
+  {
+   "v": "KIP",
+   "t": "Come on! Let's test it on somebody else!",
+   "k": "excited",
+   "p": "point",
+   "a": "glow",
+   "sfx": [
+    "whoosh"
+   ],
+   "s": "yard"
+  },
+  {
+   "v": "GRAN",
+   "t": "Ah. Good morning, boys. Lovely day... for a slow walk.",
+   "k": "happy",
+   "p": "wave",
+   "e": {
+    "gran": "happy"
+   },
+   "m": "pastoral",
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "Now where on earth did I put my glasses? I've been looking since breakfast.",
+   "mode": "think",
+   "e": {
+    "gran": "confused"
+   },
+   "s": "park"
+  },
+  {
+   "v": "KIP",
+   "t": "Good morning, Grandpa Shelby. Your glasses are on top of your head.",
+   "k": "happy",
+   "p": "point",
+   "s": "park"
+  },
+  {
+   "v": null,
+   "a": "glasses",
+   "dur": 1.3,
+   "e": {
+    "gran": "surprise"
+   },
+   "sfx": [
+    "ding"
+   ],
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "Hm? Well, I'll be. How did you know I was looking for them?",
+   "e": {
+    "gran": "surprise"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "MAX",
+   "t": "He reads minds now! I knocked a star out of the sky!",
+   "e": {
+    "max": "excited",
+    "gran": "surprise"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "A star? Oh, my. A Thinking Star. I read about these when I was only ninety.",
+   "e": {
+    "gran": "happy"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "MAX",
+   "t": "Can you read minds too, Grandpa?",
+   "e": {
+    "max": "happy"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "At my age, young man, I can barely read a menu.",
+   "e": {
+    "gran": "neutral"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "KIP",
+   "t": "So it's real? I can really hear thoughts?",
+   "k": "excited",
+   "p": "idle",
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "Every thought, Kip. But remember: a thought is like a cloud. It drifts by, and you only ever see one small piece of the sky.",
+   "e": {
+    "gran": "happy"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "Oh no. If he can hear thoughts... he'll find out about tonight!",
+   "mode": "think",
+   "e": {
+    "gran": "fear"
+   },
+   "a": "on",
+   "m": "mystery",
+   "s": "park"
+  },
+  {
+   "v": "KIP",
+   "t": "Find out about what tonight?",
+   "k": "confused",
+   "p": "think",
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "Hm? Nothing! Nothing at all. Oh look, a butterfly!",
+   "e": {
+    "gran": "fear"
+   },
+   "a": "on",
+   "m": "comedic",
+   "s": "park"
+  },
+  {
+   "v": "GRAN",
+   "t": "Think about turnips. Think about turnips. Turnips, turnips, turnips...",
+   "mode": "think",
+   "e": {
+    "gran": "fear"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "KIP",
+   "t": "He's thinking about turnips. Really, really hard.",
+   "k": "confused",
+   "p": "shrug",
+   "a": "on",
+   "hl": [
+    "turnips."
+   ],
+   "s": "park"
+  },
+  {
+   "v": "MAX",
+   "t": "That's suspicious. Nobody thinks about turnips that hard.",
+   "e": {
+    "max": "angry"
+   },
+   "a": "on",
+   "s": "park"
+  },
+  {
+   "v": "COCO",
+   "t": "Kip, darling! Max, sweetie! Fabulous morning, isn't it? Gorgeous! Simply gorgeous!",
+   "k": "neutral",
+   "p": "idle",
+   "e": {
+    "coco": "happy"
+   },
+   "m": "comedic",
+   "s": "porch"
+  },
+  {
+   "v": "COCO",
+   "t": "Act normal, Coco. Act normal. Don't mention the big secret. And don't look at the hedge.",
+   "mode": "think",
+   "e": {
+    "coco": "fear"
+   },
+   "s": "porch"
+  },
+  {
+   "v": "KIP",
+   "t": "Coco... what's behind the hedge?",
+   "k": "confused",
+   "p": "point",
+   "s": "porch"
+  },
+  {
+   "v": "COCO",
+   "t": "Hedge? What hedge? I have never seen a hedge in my entire life!",
+   "e": {
+    "coco": "surprise"
+   },
+   "s": "porch"
+  },
+  {
+   "v": "MAX",
+   "t": "You're literally standing in front of a hedge.",
+   "e": {
+    "max": "neutral"
+   },
+   "s": "porch"
+  },
+  {
+   "v": "COCO",
+   "t": "That is a SHRUB, sweetie. A very exclusive shrub.",
+   "e": {
+    "coco": "angry"
+   },
+   "s": "porch"
+  },
+  {
+   "v": "COCO",
+   "t": "Poor little Kip. After tonight, nothing will ever be the same for him.",
+   "mode": "think",
+   "e": {
+    "coco": "sad"
+   },
+   "m": "mystery",
+   "s": "porch"
+  },
+  {
+   "v": "KIP",
+   "t": "...Nothing will ever be the same?",
+   "k": "sad",
+   "p": "idle",
+   "s": "porch"
+  },
+  {
+   "v": "COCO",
+   "t": "Gotta run! Busy, busy! Toodle-oo!",
+   "e": {
+    "coco": "happy"
+   },
+   "m": "comedic",
+   "s": "porch"
+  },
+  {
+   "v": null,
+   "a": "cocoRun",
+   "dur": 1.6,
+   "k": "confused",
+   "p": "shrug",
+   "sfx": [
+    "whoosh"
+   ],
+   "s": "porch"
+  },
+  {
+   "v": "MAX",
+   "t": "Okay. That was weird. Even for Coco.",
+   "e": {
+    "max": "confused"
+   },
+   "a": "gone",
+   "s": "porch"
+  },
+  {
+   "v": "MAIL",
+   "t": "Did anybody see me trip over that curb?",
+   "k": "fear",
+   "p": "scared",
+   "mode": "think",
+   "a": "crowd",
+   "m": "chaos",
+   "s": "street"
+  },
+  {
+   "v": "LADY",
+   "t": "I hope it doesn't rain. My hair frizzes when it rains.",
+   "mode": "think",
+   "a": "crowd",
+   "s": "street"
+  },
+  {
+   "v": "BAKER",
+   "t": "Is that... my shadow... or a raccoon?",
+   "mode": "think",
+   "a": "crowd",
+   "s": "street"
+  },
+  {
+   "v": "JOG",
+   "t": "Left, right, left, right... wait, which one is my left?",
+   "mode": "think",
+   "a": "crowd",
+   "s": "street"
+  },
+  {
+   "v": "DOG",
+   "t": "Too bright! Too bright! Who turned on the sun?",
+   "mode": "think",
+   "a": "crowd",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "Too many voices! Everybody's thinking at the same time!",
+   "k": "fear",
+   "p": "scared",
+   "a": "crowd",
+   "hl": [
+    "too",
+    "many"
+   ],
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "Just think about something quiet. Like clouds. Or naps. Naps are very quiet.",
+   "k": "sad",
+   "p": "idle",
+   "e": {
+    "max": "happy"
+   },
+   "a": "calm",
+   "m": "pastoral",
+   "s": "street"
+  },
+  {
+   "v": "MOM",
+   "t": "There you are, sweetie! Did you have a nice morning?",
+   "k": "neutral",
+   "p": "idle",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "momIn",
+   "m": "warm",
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "Mom... is something happening tonight?",
+   "k": "confused",
+   "p": "idle",
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "Tonight? Oh, just a quiet evening. Why do you ask, honey?",
+   "e": {
+    "mom": "happy"
+   },
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "He's growing up so fast. It's time for him to move out of his little room. Tonight, he leaves it... forever.",
+   "mode": "think",
+   "e": {
+    "mom": "sad"
+   },
+   "m": "mystery",
+   "s": "home"
+  },
+  {
+   "v": null,
+   "a": "heartbreak",
+   "dur": 1.6,
+   "k": "sad",
+   "p": "sad",
+   "sfx": [
+    "heart"
+   ],
+   "m": "silence",
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "...Okay, Mom.",
+   "k": "sad",
+   "p": "sad",
+   "m": "sad",
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "Now, why don't you boys go play far away until sunset? Very far away. Really, really far.",
+   "e": {
+    "mom": "happy"
+   },
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "And please, please, do not come back early...",
+   "mode": "think",
+   "e": {
+    "mom": "fear"
+   },
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "Max... I think everyone wants me to leave.",
+   "k": "sad",
+   "p": "sad",
+   "e": {
+    "max": "neutral"
+   },
+   "m": "sad",
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "What? No way! Who told you that?",
+   "e": {
+    "max": "surprise"
+   },
+   "s": "yard2"
+  },
+  {
+   "v": "KIP",
+   "t": "Nobody TOLD me. They THOUGHT it. Mom wants me out of my room. Coco says nothing will be the same. And Grandpa Shelby is hiding something.",
+   "k": "sad",
+   "p": "shrug",
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip, I'm sure there's a good\u2014",
+   "e": {
+    "max": "fear"
+   },
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "Don't think about the surprise! Don't think about the surprise! Bananas! Bananas, bananas, bananas!",
+   "mode": "think",
+   "e": {
+    "max": "fear"
+   },
+   "m": "comedic",
+   "s": "yard2"
+  },
+  {
+   "v": "KIP",
+   "t": "...Why are you thinking about bananas?",
+   "k": "confused",
+   "p": "think",
+   "hl": [
+    "bananas?"
+   ],
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "I'm not! I'm thinking about... regular things. Normal kid things.",
+   "e": {
+    "max": "happy"
+   },
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "Oh no, oh no, oh no. I wish he would just go away for a while!",
+   "mode": "think",
+   "e": {
+    "max": "fear"
+   },
+   "m": "mystery",
+   "s": "yard2"
+  },
+  {
+   "v": null,
+   "a": "heartbreak",
+   "dur": 1.8,
+   "k": "sad",
+   "p": "sad",
+   "sfx": [
+    "heart"
+   ],
+   "m": "silence",
+   "s": "yard2"
+  },
+  {
+   "v": "KIP",
+   "t": "You too, Max?",
+   "k": "sad",
+   "p": "sad",
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "Wait, Kip, that's not what I\u2014",
+   "e": {
+    "max": "fear"
+   },
+   "s": "yard2"
+  },
+  {
+   "v": null,
+   "a": "kipRuns",
+   "dur": 1.5,
+   "k": "sad",
+   "p": "sad",
+   "sfx": [
+    "whoosh"
+   ],
+   "m": "tense",
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip! Come back! Oh no... I have to tell the others!",
+   "e": {
+    "max": "fear"
+   },
+   "a": "alone",
+   "s": "yard2"
+  },
+  {
+   "v": "MAX",
+   "t": "Code red! Code red! Kip heard everything and he ran away!",
+   "e": {
+    "max": "fear",
+    "mom": "surprise",
+    "coco": "surprise",
+    "gran": "surprise"
+   },
+   "a": "burst",
+   "m": "urgent",
+   "sfx": [
+    "door"
+   ],
+   "s": "kitchen"
+  },
+  {
+   "v": "COCO",
+   "t": "Everything?! Even the part about the cake?",
+   "e": {
+    "coco": "surprise"
+   },
+   "s": "kitchen"
+  },
+  {
+   "v": "MAX",
+   "t": "No! Worse! He thinks we all want him to leave!",
+   "e": {
+    "max": "fear"
+   },
+   "s": "kitchen"
+  },
+  {
+   "v": "MOM",
+   "t": "Oh no. My poor baby...",
+   "e": {
+    "mom": "sad",
+    "coco": "sad"
+   },
+   "s": "kitchen"
+  },
+  {
+   "v": "GRAN",
+   "t": "Leave it to me. I know exactly where he goes when he is sad. I have known since he was this tall.",
+   "e": {
+    "gran": "happy",
+    "mom": "sad"
+   },
+   "s": "kitchen"
+  },
+  {
+   "v": "MOM",
+   "t": "Hurry, Mr. Shelby!",
+   "e": {
+    "mom": "fear"
+   },
+   "s": "kitchen"
+  },
+  {
+   "v": "GRAN",
+   "t": "Hurrying... is not my specialty. But I shall try.",
+   "e": {
+    "gran": "neutral"
+   },
+   "a": "granGo",
+   "s": "kitchen"
+  },
+  {
+   "v": null,
+   "a": "sunset",
+   "dur": 2.0,
+   "k": "sad",
+   "p": "sad",
+   "m": "sad",
+   "s": "hill"
+  },
+  {
+   "v": "KIP",
+   "t": "A thought is just one piece of the sky... But what if that piece is true?",
+   "k": "sad",
+   "p": "sad",
+   "s": "hill"
+  },
+  {
+   "v": null,
+   "a": "crack",
+   "dur": 3.6,
+   "k": "fear",
+   "p": "scared",
+   "sfx": [
+    "crack",
+    "riser"
+   ],
+   "m": "chaos",
+   "s": "hill"
+  },
+  {
+   "v": "COCO",
+   "t": "Don't let him find out!",
+   "k": "fear",
+   "p": "scared",
+   "mode": "think",
+   "a": "storm",
+   "s": "hill"
+  },
+  {
+   "v": "MAX",
+   "t": "Go away for a while!",
+   "mode": "think",
+   "a": "storm",
+   "s": "hill"
+  },
+  {
+   "v": "MOM",
+   "t": "He leaves it forever!",
+   "mode": "think",
+   "a": "storm",
+   "s": "hill"
+  },
+  {
+   "v": "GRAN",
+   "t": "Turnips! Turnips!",
+   "mode": "think",
+   "a": "storm",
+   "s": "hill"
+  },
+  {
+   "v": "KIP",
+   "t": "Stop! Stop it! I don't want to hear anymore!",
+   "k": "fear",
+   "p": "scared",
+   "a": "storm",
+   "hl": [
+    "stop!"
+   ],
+   "s": "hill"
+  },
+  {
+   "v": null,
+   "a": "dim",
+   "dur": 1.6,
+   "k": "sad",
+   "p": "sad",
+   "sfx": [
+    "ding"
+   ],
+   "m": "silence",
+   "s": "hill"
+  },
+  {
+   "v": "GRAN",
+   "t": "There you are. I came as fast as I could.",
+   "k": "sad",
+   "p": "sad",
+   "e": {
+    "gran": "happy"
+   },
+   "a": "granIn",
+   "m": "warm",
+   "s": "hill"
+  },
+  {
+   "v": "GRAN",
+   "t": "Which, admittedly, took about three hours.",
+   "e": {
+    "gran": "neutral"
+   },
+   "a": "granHere",
+   "s": "hill"
+  },
+  {
+   "v": "KIP",
+   "t": "Grandpa Shelby... everyone wants me gone.",
+   "k": "sad",
+   "p": "sad",
+   "a": "granHere",
+   "s": "hill"
+  },
+  {
+   "v": "GRAN",
+   "t": "A Thinking Star only shows you the thoughts, Kip. Never the reasons behind them.",
+   "e": {
+    "gran": "neutral"
+   },
+   "a": "granHere",
+   "s": "hill"
+  },
+  {
+   "v": "GRAN",
+   "t": "In all my years, I've learned this: when we only hear a little, we imagine the rest. And we usually imagine the worst.",
+   "e": {
+    "gran": "happy"
+   },
+   "a": "granHere",
+   "s": "hill"
+  },
+  {
+   "v": "KIP",
+   "t": "So... I only heard one piece of the sky?",
+   "k": "confused",
+   "p": "idle",
+   "a": "granHere",
+   "s": "hill"
+  },
+  {
+   "v": "GRAN",
+   "t": "So stop listening with the star... and come look with your own eyes. Follow me.",
+   "e": {
+    "gran": "happy"
+   },
+   "a": "granHere",
+   "s": "hill"
+  },
+  {
+   "v": "KIP",
+   "t": "Hello? Mom? Why is it so dark?",
+   "k": "fear",
+   "p": "scared",
+   "a": "dark",
+   "m": "tense",
+   "s": "party"
+  },
+  {
+   "v": null,
+   "a": "lightsOn",
+   "dur": 0.8,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "pop"
+   ],
+   "m": "silence",
+   "s": "party"
+  },
+  {
+   "v": "MOM",
+   "t": "SURPRISE!",
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "mom": "excited",
+    "max": "excited",
+    "coco": "excited",
+    "gran": "happy"
+   },
+   "a": "surprise",
+   "chorus": [
+    "MAX",
+    "COCO",
+    "GRAN"
+   ],
+   "sfx": [
+    "confetti"
+   ],
+   "m": "party",
+   "s": "party"
+  },
+  {
+   "v": "COCO",
+   "t": "Happy birthday, Kip darling! Did you really think we forgot?",
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "coco": "excited"
+   },
+   "a": "party",
+   "s": "party"
+  },
+  {
+   "v": "KIP",
+   "t": "My... birthday?",
+   "k": "surprise",
+   "p": "idle",
+   "a": "party",
+   "s": "party"
+  },
+  {
+   "v": "MOM",
+   "t": "And that's not all. Look up, sweetheart.",
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "party",
+   "m": "tender",
+   "s": "party"
+  },
+  {
+   "v": null,
+   "a": "treehouse",
+   "dur": 3.4,
+   "k": "excited",
+   "p": "cheer",
+   "sfx": [
+    "shimmer"
+   ],
+   "s": "party"
+  },
+  {
+   "v": "MOM",
+   "t": "Your very own big-kid room. A treehouse, right outside my window. You're leaving your little room... but you're never leaving me.",
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "tree",
+   "s": "party"
+  },
+  {
+   "v": "KIP",
+   "t": "So THAT's what you meant...",
+   "k": "happy",
+   "p": "idle",
+   "a": "party",
+   "s": "party"
+  },
+  {
+   "v": "COCO",
+   "t": "\"Nothing will ever be the same,\" darling, because now you are officially a big kid!",
+   "e": {
+    "coco": "happy"
+   },
+   "a": "party",
+   "m": "comedic",
+   "s": "party"
+  },
+  {
+   "v": "GRAN",
+   "t": "And I am a terrible secret keeper, so I tried not to think about the party at all. Hence... the turnips.",
+   "e": {
+    "gran": "happy"
+   },
+   "a": "party",
+   "s": "party"
+  },
+  {
+   "v": "MAX",
+   "t": "And I needed you to go away for a while so I could practice THIS!",
+   "e": {
+    "max": "excited"
+   },
+   "a": "party",
+   "hl": [
+    "this!"
+   ],
+   "s": "party"
+  },
+  {
+   "v": null,
+   "a": "fireworks",
+   "dur": 4.4,
+   "k": "excited",
+   "p": "cheer",
+   "e": {
+    "max": "excited"
+   },
+   "sfx": [
+    "launch",
+    "pop"
+   ],
+   "m": "party",
+   "s": "party"
+  },
+  {
+   "v": "MAX",
+   "t": "Ta-da! A homemade fireworks show! And I didn't set anything on fire... this time.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "after",
+   "s": "party"
+  },
+  {
+   "v": "KIP",
+   "t": "Max... I'm sorry I ran away. I heard your thoughts, but I didn't listen to your heart.",
+   "k": "sad",
+   "p": "idle",
+   "a": "after",
+   "m": "tender",
+   "s": "party"
+  },
+  {
+   "v": "MAX",
+   "t": "That's okay. You're my best friend. Even when you're inside my head.",
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "max": "happy"
+   },
+   "a": "after",
+   "s": "party"
+  },
+  {
+   "v": "KIP",
+   "t": "I don't need this anymore. Thoughts are better when friends share them on their own.",
+   "k": "happy",
+   "p": "idle",
+   "a": "hold",
+   "m": "tender",
+   "s": "party2"
+  },
+  {
+   "v": "MAX",
+   "t": "Then make a wish and let it go!",
+   "e": {
+    "max": "happy"
+   },
+   "a": "hold",
+   "s": "party2"
+  },
+  {
+   "v": null,
+   "a": "release",
+   "dur": 2.6,
+   "k": "happy",
+   "p": "cheer",
+   "sfx": [
+    "whoosh",
+    "shimmer"
+   ],
+   "s": "party2"
+  },
+  {
+   "v": null,
+   "a": "landCoco",
+   "dur": 2.2,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "coco": "surprise"
+   },
+   "sfx": [
+    "ding"
+   ],
+   "m": "magic",
+   "s": "party2"
+  },
+  {
+   "v": "COCO",
+   "t": "Ooooh. Oh, my. Oh, darlings... I can hear EVERYTHING.",
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "coco": "happy"
+   },
+   "a": "cocoStar",
+   "s": "party2"
+  },
+  {
+   "v": "KIP",
+   "t": "Uh-oh.",
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "max": "fear",
+    "mom": "fear",
+    "gran": "fear"
+   },
+   "a": "cocoStar",
+   "chorus": [
+    "MAX",
+    "MOM",
+    "GRAN"
+   ],
+   "sfx": [
+    "wah"
+   ],
+   "s": "party2"
+  },
+  {
+   "v": "COCO",
+   "t": "Grandpa Shelby! You think my singing sounds like a squeaky door?!",
+   "e": {
+    "coco": "angry",
+    "gran": "fear"
+   },
+   "a": "cocoStar",
+   "m": "comedic",
+   "s": "party2"
+  },
+  {
+   "v": "GRAN",
+   "t": "...Turnips.",
+   "e": {
+    "gran": "fear"
+   },
+   "a": "cocoStar",
+   "s": "party2"
+  },
+  {
+   "v": null,
+   "a": "laugh",
+   "dur": 2.6,
+   "k": "happy",
+   "p": "cheer",
+   "e": {
+    "max": "happy",
+    "mom": "happy",
+    "gran": "happy",
+    "coco": "happy"
+   },
+   "sfx": [
+    "laugh"
+   ],
+   "m": "party",
+   "s": "party2"
+  },
+  {
+   "v": "KIP",
+   "t": "And you? I don't need a star to know what you're thinking right now...",
+   "k": "happy",
+   "p": "point",
+   "a": "camera",
+   "s": "party2"
+  },
+  {
+   "v": "KIP",
+   "t": "\"I want to see the next episode!\"",
+   "k": "excited",
+   "p": "wave",
+   "a": "camera",
+   "hl": [
+    "next",
+    "episode!\""
+   ],
+   "s": "party2"
+  },
+  {
+   "v": "N",
+   "t": "Next time: What if you could shrink to the size of an ant?",
+   "a": "outro",
+   "hl": [
+    "ant?"
+   ],
+   "s": "outro"
+  }
+ ]
+}

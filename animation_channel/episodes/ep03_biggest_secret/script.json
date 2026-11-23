@@ -1,0 +1,1333 @@
+{
+ "title": "What If Everyone Could See Your Biggest Secret?",
+ "duration": 510,
+ "voices": {
+  "N": "am_michael",
+  "KIP": "am_puck",
+  "MAX": "am_liam",
+  "MOM": "af_heart",
+  "LILY": "af_nova",
+  "TEACH": "bm_daniel",
+  "COP": "am_onyx",
+  "BAKER": "bf_emma",
+  "DRIVER": "am_adam"
+ },
+ "names": {
+  "N": "NARRATOR",
+  "KIP": "KIP",
+  "MAX": "MAX",
+  "MOM": "MOM",
+  "LILY": "LILY",
+  "TEACH": "MR. GRUMBOLD",
+  "COP": "OFFICER DAN",
+  "BAKER": "ROSA",
+  "DRIVER": "BUS DRIVER"
+ },
+ "signs": {
+  "max": "I STILL SLEEP WITH A TEDDY BEAR NAMED MR. FLUFFLES",
+  "cop": "I'M TERRIFIED OF PIGEONS",
+  "baker": "MY 'HOMEMADE' COOKIES ARE FROM THE SUPERMARKET",
+  "teach": "I SING OPERA IN THE SHOWER EVERY MORNING",
+  "lily": "I'VE NEVER HAD A REAL FRIEND",
+  "kip": "WE'RE MOVING AWAY ON FRIDAY... AND I HAVEN'T TOLD MAX",
+  "mom": "I TURNED DOWN THE NEW JOB. WE'RE NOT MOVING!",
+  "max2": "I'M LEAVING FOR THE WHOLE SUMMER TONIGHT. NO GOODBYES.",
+  "driver": "I'VE NEVER DRIVEN A BUS BEFORE TODAY",
+  "kip2": "MAX IS MY BEST FRIEND AND I'M SORRY I LAUGHED",
+  "teddy": "I CAN TALK",
+  "lily2": "I HAVE TWO REAL FRIENDS NOW"
+ },
+ "beats": [
+  {
+   "v": null,
+   "a": "hookOpen",
+   "dur": 0.5,
+   "k": "fear",
+   "p": "scared",
+   "sfx": [
+    "heart"
+   ],
+   "m": "tense",
+   "s": "hook"
+  },
+  {
+   "v": "KIP",
+   "t": "Okay. Why is everyone staring at the sign above my head?",
+   "k": "fear",
+   "p": "scared",
+   "a": "stare",
+   "s": "hook"
+  },
+  {
+   "v": "KIP",
+   "t": "No, no, no, no... don't load. DON'T LOAD!",
+   "k": "fear",
+   "p": "scared",
+   "a": "loading",
+   "hl": [
+    "load!"
+   ],
+   "sfx": [
+    "glitch",
+    "riser"
+   ],
+   "s": "hook"
+  },
+  {
+   "v": null,
+   "a": "reveal",
+   "dur": 0.5,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "impact"
+   ],
+   "s": "hook"
+  },
+  {
+   "v": null,
+   "a": "title",
+   "dur": 4.4,
+   "sfx": [
+    "riser"
+   ],
+   "m": "magic",
+   "s": "title"
+  },
+  {
+   "v": "N",
+   "t": "That morning, nobody in town knew what was about to happen...",
+   "k": "happy",
+   "p": "idle",
+   "a": "sleep",
+   "m": "curious",
+   "s": "bedroom"
+  },
+  {
+   "v": null,
+   "a": "alarm",
+   "dur": 1.6,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "ding"
+   ],
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "Morning, world! Today is going to be a totally normal day.",
+   "k": "happy",
+   "p": "cheer",
+   "a": "up",
+   "s": "bedroom"
+  },
+  {
+   "v": "MAX",
+   "t": "KIP! Open the window! Something is very, very wrong!",
+   "k": "surprise",
+   "p": "idle",
+   "e": {
+    "max": "fear"
+   },
+   "a": "window",
+   "sfx": [
+    "door"
+   ],
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "Max? What's that glowing thing above your head?",
+   "k": "confused",
+   "p": "point",
+   "a": "window",
+   "s": "bedroom"
+  },
+  {
+   "v": "MAX",
+   "t": "Don't read it! Do NOT read it!",
+   "e": {
+    "max": "fear"
+   },
+   "a": "window",
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "\"I still sleep with a teddy bear named... Mr. Fluffles\"?",
+   "k": "surprise",
+   "p": "idle",
+   "a": "read",
+   "hl": [
+    "fluffles\"?"
+   ],
+   "s": "bedroom"
+  },
+  {
+   "v": "MAX",
+   "t": "It's not funny!",
+   "e": {
+    "max": "angry"
+   },
+   "a": "read",
+   "s": "bedroom"
+  },
+  {
+   "v": null,
+   "a": "laughFit",
+   "dur": 2.2,
+   "k": "happy",
+   "p": "cheer",
+   "e": {
+    "max": "angry"
+   },
+   "sfx": [
+    "laughKip"
+   ],
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "Mister... Fluffles! That is the best thing I have ever heard!",
+   "k": "happy",
+   "p": "cheer",
+   "a": "read",
+   "s": "bedroom"
+  },
+  {
+   "v": "MAX",
+   "t": "Everybody has one! The whole town woke up with their biggest secret floating over their heads!",
+   "e": {
+    "max": "fear"
+   },
+   "a": "read",
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "Wait. Everybody? Then why don't I have one?",
+   "k": "confused",
+   "p": "think",
+   "a": "noSign",
+   "s": "bedroom"
+  },
+  {
+   "v": "MAX",
+   "t": "Maybe your secrets are just boring.",
+   "e": {
+    "max": "neutral"
+   },
+   "a": "noSign",
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "Or maybe I am a person with no secrets at all.",
+   "k": "happy",
+   "p": "idle",
+   "a": "noSign",
+   "s": "bedroom"
+  },
+  {
+   "v": "MOM",
+   "t": "Kip! Breakfast! And... please do not look above my head.",
+   "k": "surprise",
+   "p": "idle",
+   "e": {
+    "mom": "fear"
+   },
+   "a": "momDoor",
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "Relax, Mom. You don't even have one. It just says 'loading'.",
+   "k": "happy",
+   "p": "shrug",
+   "a": "momDoor",
+   "s": "bedroom"
+  },
+  {
+   "v": "MOM",
+   "t": "Oh, thank goodness. I mean... how strange! Must be a very slow sign.",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "momDoor",
+   "s": "bedroom"
+  },
+  {
+   "v": "MAX",
+   "t": "Your mom is acting super weird.",
+   "e": {
+    "max": "confused"
+   },
+   "a": "momDoor",
+   "s": "bedroom"
+  },
+  {
+   "v": "KIP",
+   "t": "Moms are always weird. Come on! Let's go see the town!",
+   "k": "happy",
+   "p": "point",
+   "a": "momDoor",
+   "sfx": [
+    "whoosh"
+   ],
+   "s": "bedroom"
+  },
+  {
+   "v": "BAKER",
+   "t": "Good morning, boys! Fresh homemade cookies! Baked with love!",
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "baker": "happy"
+   },
+   "m": "comedic",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "\"My homemade cookies are from the supermarket\"?",
+   "k": "happy",
+   "p": "point",
+   "a": "readBaker",
+   "s": "street"
+  },
+  {
+   "v": "BAKER",
+   "t": "That sign is a liar! ...Mostly. Okay, it's a little bit true.",
+   "e": {
+    "baker": "fear"
+   },
+   "a": "readBaker",
+   "s": "street"
+  },
+  {
+   "v": "COP",
+   "t": "Move along, kids. Nothing to see here. Everything is under control.",
+   "e": {
+    "cop": "neutral"
+   },
+   "a": "cop",
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "\"I'm terrified of pigeons\"?",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "cop",
+   "s": "street"
+  },
+  {
+   "v": null,
+   "a": "pigeon",
+   "dur": 2.0,
+   "e": {
+    "cop": "fear"
+   },
+   "sfx": [
+    "flap",
+    "boing"
+   ],
+   "s": "street"
+  },
+  {
+   "v": "COP",
+   "t": "AAAH! Get it off! Get it off me! It is looking at me with its tiny eyes!",
+   "e": {
+    "cop": "fear"
+   },
+   "a": "pigeonOn",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "This is the best day ever! I should take pictures of EVERYBODY!",
+   "k": "excited",
+   "p": "cheer",
+   "a": "pigeonOn",
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip... maybe don't. People look really embarrassed.",
+   "e": {
+    "max": "sad"
+   },
+   "a": "pigeonOn",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "Relax! It's just a joke. Who cares about a few silly secrets?",
+   "k": "happy",
+   "p": "shrug",
+   "a": "pigeonOn",
+   "s": "street"
+  },
+  {
+   "v": null,
+   "a": "snap",
+   "dur": 1.8,
+   "k": "excited",
+   "p": "point",
+   "sfx": [
+    "snap"
+   ],
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "And... posted! The class group chat is going to LOVE this.",
+   "k": "happy",
+   "p": "cheer",
+   "a": "posted",
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "Wait. Which pictures did you post?",
+   "e": {
+    "max": "fear"
+   },
+   "a": "posted",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "Just the funny ones. Rosa, Officer Dan... and one tiny picture of Mr. Fluffles.",
+   "k": "happy",
+   "p": "shrug",
+   "a": "posted",
+   "hl": [
+    "fluffles."
+   ],
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "KIP!",
+   "e": {
+    "max": "angry"
+   },
+   "a": "posted",
+   "sfx": [
+    "boing"
+   ],
+   "s": "street"
+  },
+  {
+   "v": "TEACH",
+   "t": "Silence! Eyes on the board! We will NOT be discussing the signs today.",
+   "e": {
+    "teach": "angry",
+    "lily": "neutral"
+   },
+   "a": "board",
+   "m": "comedic",
+   "s": "class"
+  },
+  {
+   "v": "MAX",
+   "t": "Everybody in the hallway called me Mr. Fluffles. Fourteen times.",
+   "e": {
+    "max": "sad"
+   },
+   "a": "board",
+   "s": "class"
+  },
+  {
+   "v": "KIP",
+   "t": "Come on, Max. In a week nobody will even remember.",
+   "k": "happy",
+   "p": "shrug",
+   "a": "board",
+   "s": "class"
+  },
+  {
+   "v": "MAX",
+   "t": "Easy for you to say. You don't have a sign.",
+   "e": {
+    "max": "angry"
+   },
+   "a": "board",
+   "s": "class"
+  },
+  {
+   "v": "KIP",
+   "t": "Mr. Grumbold... is it true you sing opera in the shower?",
+   "k": "happy",
+   "p": "idle",
+   "a": "board",
+   "s": "class"
+  },
+  {
+   "v": "TEACH",
+   "t": "Absolutely not! I would never! ...Every morning. Fine.",
+   "e": {
+    "teach": "fear"
+   },
+   "a": "board",
+   "s": "class"
+  },
+  {
+   "v": null,
+   "a": "opera",
+   "dur": 2.4,
+   "e": {
+    "teach": "happy"
+   },
+   "sfx": [
+    "opera"
+   ],
+   "s": "class"
+  },
+  {
+   "v": "TEACH",
+   "t": "Ahem. Moving on!",
+   "e": {
+    "teach": "neutral"
+   },
+   "a": "board",
+   "s": "class"
+  },
+  {
+   "v": "KIP",
+   "t": "Ooh, and Lily the perfect class president has one too! Let me guess... \"I once got a B-plus\"?",
+   "k": "happy",
+   "p": "point",
+   "a": "lilyRead",
+   "s": "class"
+  },
+  {
+   "v": null,
+   "a": "lilySign",
+   "dur": 1.6,
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "lily": "sad"
+   },
+   "m": "sad",
+   "s": "class"
+  },
+  {
+   "v": "KIP",
+   "t": "\"I've never had a real friend.\"",
+   "k": "surprise",
+   "p": "idle",
+   "a": "lilyRead",
+   "s": "class"
+  },
+  {
+   "v": "LILY",
+   "t": "Go ahead. Laugh. Everybody else already did.",
+   "e": {
+    "lily": "sad"
+   },
+   "a": "lilyRead",
+   "s": "class"
+  },
+  {
+   "v": "KIP",
+   "t": "I... I wasn't going to laugh at that one.",
+   "k": "sad",
+   "p": "sad",
+   "a": "lilyRead",
+   "s": "class"
+  },
+  {
+   "v": "LILY",
+   "t": "People think perfect means happy. It doesn't. It just means nobody sits next to you.",
+   "e": {
+    "lily": "sad"
+   },
+   "a": "lilyRead",
+   "s": "class"
+  },
+  {
+   "v": "MAX",
+   "t": "You can sit next to us at lunch, Lily. If you want.",
+   "e": {
+    "max": "happy",
+    "lily": "surprise"
+   },
+   "a": "lilyRead",
+   "m": "warm",
+   "s": "class"
+  },
+  {
+   "v": "LILY",
+   "t": "Really? ...Thanks, Max.",
+   "e": {
+    "lily": "happy"
+   },
+   "a": "lilyRead",
+   "s": "class"
+  },
+  {
+   "v": null,
+   "a": "flicker",
+   "dur": 2.0,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "max": "surprise",
+    "lily": "surprise",
+    "teach": "surprise"
+   },
+   "sfx": [
+    "glitch",
+    "heart"
+   ],
+   "m": "tense",
+   "s": "class2"
+  },
+  {
+   "v": "LILY",
+   "t": "Kip... your sign. It is starting to load.",
+   "e": {
+    "lily": "surprise"
+   },
+   "a": "loading",
+   "s": "class2"
+  },
+  {
+   "v": "KIP",
+   "t": "What? No! That is impossible! I have no secrets!",
+   "k": "fear",
+   "p": "scared",
+   "a": "loading",
+   "s": "class2"
+  },
+  {
+   "v": "KIP",
+   "t": "Quick! Somebody give me a hat! A bucket! A really big sandwich!",
+   "k": "fear",
+   "p": "scared",
+   "a": "hide",
+   "sfx": [
+    "boing"
+   ],
+   "s": "class2"
+  },
+  {
+   "v": "TEACH",
+   "t": "Kip, sit down. Signs cannot be covered. Science says.",
+   "e": {
+    "teach": "neutral"
+   },
+   "a": "hide",
+   "s": "class2"
+  },
+  {
+   "v": null,
+   "a": "kipReveal",
+   "dur": 2.6,
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "max": "surprise",
+    "lily": "surprise",
+    "teach": "surprise"
+   },
+   "sfx": [
+    "impact"
+   ],
+   "m": "silence",
+   "s": "class2"
+  },
+  {
+   "v": "MAX",
+   "t": "\"We're moving away on Friday... and I haven't told Max\"?",
+   "e": {
+    "max": "sad"
+   },
+   "a": "kipSecret",
+   "m": "sad",
+   "s": "class2"
+  },
+  {
+   "v": "KIP",
+   "t": "Max, I can explain...",
+   "k": "sad",
+   "p": "sad",
+   "a": "kipSecret",
+   "s": "class2"
+  },
+  {
+   "v": "MAX",
+   "t": "You're MOVING? Like, away away? When were you going to tell me?",
+   "e": {
+    "max": "angry"
+   },
+   "a": "kipSecret",
+   "s": "class2"
+  },
+  {
+   "v": "KIP",
+   "t": "I didn't know how. Every time I tried, the words just... got stuck.",
+   "k": "sad",
+   "p": "sad",
+   "a": "kipSecret",
+   "s": "class2"
+  },
+  {
+   "v": "MAX",
+   "t": "You laughed at my secret all day. And the whole time, you were hiding THIS?",
+   "e": {
+    "max": "angry"
+   },
+   "a": "kipSecret",
+   "s": "class2"
+  },
+  {
+   "v": "KIP",
+   "t": "Max, wait!",
+   "k": "sad",
+   "p": "point",
+   "a": "kipSecret",
+   "s": "class2"
+  },
+  {
+   "v": null,
+   "a": "maxLeaves",
+   "dur": 2.2,
+   "k": "sad",
+   "p": "sad",
+   "e": {
+    "max": "sad"
+   },
+   "sfx": [
+    "door"
+   ],
+   "s": "class2"
+  },
+  {
+   "v": "LILY",
+   "t": "He just needs time, Kip. Secrets hurt more when they come out by accident.",
+   "k": "sad",
+   "p": "sad",
+   "e": {
+    "lily": "sad"
+   },
+   "a": "afterMax",
+   "s": "class2"
+  },
+  {
+   "v": "KIP",
+   "t": "Mom... everybody saw my sign. And now Max hates me.",
+   "k": "sad",
+   "p": "sad",
+   "e": {
+    "mom": "sad"
+   },
+   "a": "door",
+   "m": "sad",
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "Oh, sweetheart. Come here. I'm so sorry it happened like that.",
+   "e": {
+    "mom": "sad"
+   },
+   "a": "door",
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "Wait. Mom... you have a sign too. It's loading right now.",
+   "k": "surprise",
+   "p": "point",
+   "a": "momLoad",
+   "sfx": [
+    "glitch"
+   ],
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "Oh no. Not yet! It was supposed to be a surprise!",
+   "e": {
+    "mom": "fear"
+   },
+   "a": "momLoad",
+   "s": "home"
+  },
+  {
+   "v": null,
+   "a": "momSign",
+   "dur": 2.0,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "mom": "happy"
+   },
+   "sfx": [
+    "ding"
+   ],
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "\"I turned down the new job. We're not moving\"?",
+   "k": "surprise",
+   "p": "surprise",
+   "a": "momRead",
+   "hl": [
+    "not",
+    "moving\"?"
+   ],
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "I was going to tell you tonight. With pizza. And a cake that said 'We're staying.'",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "momRead",
+   "m": "warm",
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "We're STAYING? We're really staying?!",
+   "k": "excited",
+   "p": "cheer",
+   "a": "momRead",
+   "sfx": [
+    "confetti"
+   ],
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "Your whole life is here, Kip. Your school. Your friends. Max.",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "momRead",
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "But why did you keep it a secret?",
+   "k": "confused",
+   "p": "think",
+   "a": "momRead",
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "I didn't want to promise you something until I was sure. Some secrets are just good news waiting for the right moment.",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "momRead",
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "And mine was bad news waiting for the wrong moment.",
+   "k": "sad",
+   "p": "sad",
+   "a": "momRead",
+   "s": "home"
+  },
+  {
+   "v": "MOM",
+   "t": "Then go make it right. The biggest secrets always take the longest to say.",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "momRead",
+   "s": "home"
+  },
+  {
+   "v": "KIP",
+   "t": "Max! I have to tell him right now!",
+   "k": "excited",
+   "p": "point",
+   "a": "momRead",
+   "s": "home"
+  },
+  {
+   "v": "LILY",
+   "t": "Kip! Kip, stop! Max's sign changed! It's a NEW secret!",
+   "k": "surprise",
+   "p": "idle",
+   "e": {
+    "lily": "fear"
+   },
+   "a": "lilyRun",
+   "m": "tense",
+   "s": "maxhouse"
+  },
+  {
+   "v": "KIP",
+   "t": "Signs can change?",
+   "k": "confused",
+   "p": "think",
+   "a": "lilyRun",
+   "s": "maxhouse"
+  },
+  {
+   "v": "LILY",
+   "t": "When your biggest secret changes, your sign changes too. Look at the picture Rosa sent!",
+   "e": {
+    "lily": "fear"
+   },
+   "a": "phone",
+   "s": "maxhouse"
+  },
+  {
+   "v": "KIP",
+   "t": "\"I'm leaving for the whole summer tonight. No goodbyes.\"",
+   "k": "fear",
+   "p": "scared",
+   "a": "phone",
+   "hl": [
+    "tonight."
+   ],
+   "s": "maxhouse"
+  },
+  {
+   "v": "LILY",
+   "t": "His bus leaves at six o'clock. It's five fifty-one!",
+   "e": {
+    "lily": "fear"
+   },
+   "a": "phone",
+   "hl": [
+    "six"
+   ],
+   "s": "maxhouse"
+  },
+  {
+   "v": "KIP",
+   "t": "Then we run. RIGHT NOW!",
+   "k": "angry",
+   "p": "point",
+   "a": "phone",
+   "sfx": [
+    "whoosh"
+   ],
+   "m": "urgent",
+   "s": "maxhouse"
+  },
+  {
+   "v": null,
+   "a": "run1",
+   "dur": 2.4,
+   "k": "angry",
+   "p": "idle",
+   "sfx": [
+    "steps"
+   ],
+   "s": "race"
+  },
+  {
+   "v": "BAKER",
+   "t": "Kip! Need a ride? My delivery bike is faster than it looks!",
+   "e": {
+    "baker": "happy"
+   },
+   "a": "bike",
+   "s": "race"
+  },
+  {
+   "v": "KIP",
+   "t": "Rosa, you are the best! Even with supermarket cookies!",
+   "k": "excited",
+   "p": "cheer",
+   "a": "bike",
+   "s": "race"
+  },
+  {
+   "v": null,
+   "a": "ride",
+   "dur": 2.6,
+   "k": "excited",
+   "p": "cheer",
+   "sfx": [
+    "whoosh",
+    "horn"
+   ],
+   "s": "race"
+  },
+  {
+   "v": "COP",
+   "t": "Halt! Road closed! Giant flock of pigeons ahead!",
+   "e": {
+    "cop": "fear"
+   },
+   "a": "block",
+   "s": "race"
+  },
+  {
+   "v": "KIP",
+   "t": "Officer Dan, my best friend is leaving! Please!",
+   "k": "sad",
+   "p": "point",
+   "a": "block",
+   "s": "race"
+  },
+  {
+   "v": "COP",
+   "t": "...For a best friend? Fine. I'll face my fears. Go! GO!",
+   "e": {
+    "cop": "angry"
+   },
+   "a": "block",
+   "s": "race"
+  },
+  {
+   "v": null,
+   "a": "pigeons",
+   "dur": 2.4,
+   "e": {
+    "cop": "fear"
+   },
+   "sfx": [
+    "flap",
+    "whoosh"
+   ],
+   "s": "race"
+  },
+  {
+   "v": "TEACH",
+   "t": "Kip! Running in the street?! ...For a friend? Then RUN! I shall sing you a victory song!",
+   "e": {
+    "teach": "happy"
+   },
+   "a": "teachCheer",
+   "s": "race"
+  },
+  {
+   "v": null,
+   "a": "opera2",
+   "dur": 2.0,
+   "k": "excited",
+   "p": "cheer",
+   "e": {
+    "teach": "happy"
+   },
+   "sfx": [
+    "opera"
+   ],
+   "s": "race"
+  },
+  {
+   "v": "LILY",
+   "t": "Five fifty-nine! We're not going to make it!",
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "lily": "fear"
+   },
+   "a": "clock",
+   "sfx": [
+    "tick"
+   ],
+   "s": "race"
+  },
+  {
+   "v": "DRIVER",
+   "t": "Last call! Doors closing! Please don't look at my sign!",
+   "e": {
+    "driver": "fear",
+    "max": "sad"
+   },
+   "a": "bus",
+   "m": "tense",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "MAX! WAIT!",
+   "k": "fear",
+   "p": "point",
+   "a": "kipArrive",
+   "sfx": [
+    "whoosh"
+   ],
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip? What are you doing here?",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "talk",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "We're not moving! Mom turned down the job! I'm staying!",
+   "k": "excited",
+   "p": "cheer",
+   "a": "talk",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "That's great. Really. But you still laughed at me. In front of everyone.",
+   "e": {
+    "max": "sad"
+   },
+   "a": "talk",
+   "m": "sad",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "I know. And I'm sorry. I thought secrets were funny... until mine showed up.",
+   "k": "sad",
+   "p": "sad",
+   "a": "talk",
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "kipNew",
+   "dur": 2.4,
+   "k": "sad",
+   "p": "sad",
+   "e": {
+    "max": "surprise"
+   },
+   "sfx": [
+    "shimmer"
+   ],
+   "m": "warm",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "Your sign... it changed. \"Max is my best friend and I'm sorry I laughed.\"",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "kip2",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "Turns out that's my biggest secret now. I just never said it out loud.",
+   "k": "happy",
+   "p": "idle",
+   "a": "kip2",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "That's the worst secret I've seen all day.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "kip2",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "...It's also the nicest one.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "kip2",
+   "m": "warm",
+   "s": "station"
+  },
+  {
+   "v": "DRIVER",
+   "t": "So... is anybody getting on this bus, or not?",
+   "e": {
+    "driver": "neutral"
+   },
+   "a": "kip2",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "I'll take the morning bus. And I'll say goodbye properly this time.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "kip2",
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "hug",
+   "dur": 2.4,
+   "k": "happy",
+   "p": "cheer",
+   "e": {
+    "max": "happy"
+   },
+   "sfx": [
+    "shimmer"
+   ],
+   "s": "station"
+  },
+  {
+   "v": "LILY",
+   "t": "Can I join the group hug? I have never been in one.",
+   "e": {
+    "lily": "happy"
+   },
+   "a": "hug2",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "Get in here, Lily!",
+   "k": "happy",
+   "p": "cheer",
+   "a": "hug2",
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "lilyNew",
+   "dur": 2.2,
+   "k": "happy",
+   "p": "cheer",
+   "e": {
+    "lily": "happy"
+   },
+   "sfx": [
+    "shimmer"
+   ],
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "Lily! Your sign changed too!",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "lily2",
+   "s": "station"
+  },
+  {
+   "v": "LILY",
+   "t": "\"I have two real friends now.\" ...Okay. I am definitely going to cry.",
+   "e": {
+    "lily": "happy"
+   },
+   "a": "lily2",
+   "s": "station"
+  },
+  {
+   "v": "DRIVER",
+   "t": "Me too, honestly. Also, I really need to learn how to drive this thing.",
+   "e": {
+    "driver": "sad"
+   },
+   "a": "lily2",
+   "m": "comedic",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "Morning, mirror! No sign. No secrets. Totally normal.",
+   "k": "happy",
+   "p": "idle",
+   "a": "mirror",
+   "m": "curious",
+   "s": "ending"
+  },
+  {
+   "v": "MAX",
+   "t": "Mine's gone too! And look who came to say goodbye.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "teddy",
+   "s": "ending"
+  },
+  {
+   "v": "KIP",
+   "t": "Mister Fluffles! Nice to finally meet you.",
+   "k": "happy",
+   "p": "wave",
+   "a": "teddy",
+   "s": "ending"
+  },
+  {
+   "v": null,
+   "a": "teddySign",
+   "dur": 2.6,
+   "k": "happy",
+   "p": "idle",
+   "sfx": [
+    "glitch",
+    "ding"
+   ],
+   "m": "magic",
+   "s": "ending"
+  },
+  {
+   "v": "KIP",
+   "t": "\"I... can... talk\"?!",
+   "k": "surprise",
+   "p": "surprise",
+   "a": "teddyRead",
+   "hl": [
+    "talk\"?!"
+   ],
+   "s": "ending"
+  },
+  {
+   "v": null,
+   "a": "wink",
+   "dur": 1.6,
+   "k": "surprise",
+   "p": "scared",
+   "e": {
+    "max": "surprise"
+   },
+   "sfx": [
+    "ding",
+    "wah"
+   ],
+   "s": "ending"
+  },
+  {
+   "v": "KIP",
+   "t": "Nope! Nope! I'm going back to bed!",
+   "k": "fear",
+   "p": "scared",
+   "a": "teddyRead",
+   "m": "comedic",
+   "s": "ending"
+  },
+  {
+   "v": "KIP",
+   "t": "So... what would YOUR biggest secret say? Don't tell me. Tell the comments.",
+   "k": "happy",
+   "p": "point",
+   "a": "camera",
+   "s": "ending"
+  },
+  {
+   "v": "N",
+   "t": "Next time: What if you could live one day... as your best friend?",
+   "a": "outro",
+   "hl": [
+    "best",
+    "friend?"
+   ],
+   "s": "outro"
+  }
+ ]
+}
