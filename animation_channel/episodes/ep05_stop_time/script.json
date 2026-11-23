@@ -1,0 +1,1664 @@
+{
+ "title": "What If You Could Stop Time?",
+ "duration": 510,
+ "voices": {
+  "N": "am_michael",
+  "KIP": "am_puck",
+  "MAX": "am_liam",
+  "MOM": "af_heart",
+  "PROF": "bm_george",
+  "HOOD": "bf_isabella",
+  "WREN": "bf_isabella",
+  "VEND": "am_fenrir",
+  "ANN": "af_kore",
+  "GIRL": "af_sky",
+  "TRAIN": "af_nicole"
+ },
+ "names": {
+  "N": "NARRATOR",
+  "KIP": "KIP",
+  "MAX": "MAX",
+  "MOM": "MOM",
+  "PROF": "PROFESSOR TOCK",
+  "HOOD": "HOODED STRANGER",
+  "WREN": "WREN",
+  "VEND": "HOT-DOG VENDOR",
+  "ANN": "MALL SPEAKER",
+  "GIRL": "LITTLE GIRL",
+  "TRAIN": "STATION SPEAKER"
+ },
+ "beats": [
+  {
+   "v": null,
+   "a": "hookOpen",
+   "dur": 0.35,
+   "k": "happy",
+   "p": "idle",
+   "z": 1,
+   "m": "eerie",
+   "sfx": [
+    "drone"
+   ],
+   "s": "hook"
+  },
+  {
+   "v": "KIP",
+   "t": "The whole city is frozen... and I am the only one who can move.",
+   "k": "happy",
+   "p": "idle",
+   "a": "rainWalk",
+   "hl": [
+    "frozen..."
+   ],
+   "s": "hook"
+  },
+  {
+   "v": null,
+   "a": "footstep",
+   "dur": 0.75,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "echostep"
+   ],
+   "s": "hook"
+  },
+  {
+   "v": "HOOD",
+   "t": "Not the only one, Kip.",
+   "k": "fear",
+   "p": "scared",
+   "a": "hoodReveal",
+   "hl": [
+    "not"
+   ],
+   "s": "hook"
+  },
+  {
+   "v": null,
+   "a": "hookScream",
+   "dur": 0.6,
+   "k": "fear",
+   "p": "scared",
+   "sfx": [
+    "impact"
+   ],
+   "s": "hook"
+  },
+  {
+   "v": null,
+   "a": "title",
+   "dur": 4.2,
+   "z": 0,
+   "sfx": [
+    "riser"
+   ],
+   "m": "magic",
+   "s": "title"
+  },
+  {
+   "v": "N",
+   "t": "Twelve hours earlier. Floor two hundred and fourteen.",
+   "a": "morning",
+   "m": "curious",
+   "s": "apt"
+  },
+  {
+   "v": "MOM",
+   "t": "Kip! The sky-bus leaves in three minutes!",
+   "k": "surprise",
+   "p": "idle",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "rush",
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "Coming! Toast, backpack, shoes... why does every morning have so many THINGS?",
+   "k": "fear",
+   "p": "shrug",
+   "a": "rush",
+   "sfx": [
+    "whoosh"
+   ],
+   "s": "apt"
+  },
+  {
+   "v": null,
+   "a": "milkTip",
+   "dur": 0.9,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "clink"
+   ],
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "No, no, no... STOP!",
+   "k": "fear",
+   "p": {
+    "armL": {
+     "sh": 70,
+     "el": -20
+    },
+    "armR": {
+     "sh": 70,
+     "el": -20
+    }
+   },
+   "a": "milkFall",
+   "hl": [
+    "stop!"
+   ],
+   "s": "apt"
+  },
+  {
+   "v": null,
+   "a": "freeze",
+   "dur": 1.7,
+   "k": "surprise",
+   "p": "surprise",
+   "z": 1,
+   "sfx": [
+    "freeze"
+   ],
+   "m": "eerie",
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "...Huh. The milk is just... hanging there. In the air.",
+   "k": "confused",
+   "p": "think",
+   "a": "frozenLook",
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "Mom? You are stuck in the middle of a sip. Is this a prank? Blink twice if it is a prank.",
+   "k": "confused",
+   "p": "point",
+   "a": "momLook",
+   "s": "apt"
+  },
+  {
+   "v": null,
+   "a": "poke",
+   "dur": 1.4,
+   "k": "surprise",
+   "p": "point",
+   "sfx": [
+    "boing"
+   ],
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "I did not break time... did I? Okay. Let me just put the glass back under the milk...",
+   "k": "fear",
+   "p": "idle",
+   "a": "place",
+   "m": "comedic",
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "And... GO?",
+   "k": "confused",
+   "p": "shrug",
+   "a": "place",
+   "hl": [
+    "go?"
+   ],
+   "s": "apt"
+  },
+  {
+   "v": null,
+   "a": "unfreeze",
+   "dur": 1.3,
+   "k": "surprise",
+   "p": "surprise",
+   "z": 0,
+   "sfx": [
+    "unfreeze",
+    "splash"
+   ],
+   "s": "apt"
+  },
+  {
+   "v": "MOM",
+   "t": "Ooh, nice catch, honey.",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "catch",
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "Thanks. Also, Mom? I think I just stopped time.",
+   "k": "happy",
+   "p": "idle",
+   "a": "catch",
+   "s": "apt"
+  },
+  {
+   "v": "MOM",
+   "t": "That is lovely, sweetie. Stop time on the way to the bus stop.",
+   "e": {
+    "mom": "happy"
+   },
+   "a": "catch",
+   "s": "apt"
+  },
+  {
+   "v": "KIP",
+   "t": "This... is going to be the best day of my life.",
+   "k": "excited",
+   "p": "cheer",
+   "a": "best",
+   "m": "upbeat",
+   "s": "apt"
+  },
+  {
+   "v": "MAX",
+   "t": "Wait, wait, wait. You stopped time? Like, actually stopped it?",
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "max": "confused"
+   },
+   "a": "talk",
+   "m": "comedic",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "Watch this. Pick anybody on this street.",
+   "k": "happy",
+   "p": "point",
+   "a": "talk",
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "Uh... the guy with the hot dogs.",
+   "e": {
+    "max": "neutral"
+   },
+   "a": "pick",
+   "s": "street"
+  },
+  {
+   "v": null,
+   "a": "clap",
+   "dur": 1.3,
+   "k": "excited",
+   "p": "idle",
+   "z": 1,
+   "sfx": [
+    "clap",
+    "freeze"
+   ],
+   "s": "street"
+  },
+  {
+   "v": null,
+   "a": "prank",
+   "dur": 3.4,
+   "k": "excited",
+   "p": "idle",
+   "sfx": [
+    "zip",
+    "pop",
+    "zip",
+    "pop"
+   ],
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "Sunglasses... a pigeon facing the other way... and one tiny mustache. Perfect.",
+   "k": "happy",
+   "p": "idle",
+   "a": "prankDone",
+   "s": "street"
+  },
+  {
+   "v": null,
+   "a": "clap2",
+   "dur": 1.1,
+   "k": "happy",
+   "p": "idle",
+   "z": 0,
+   "sfx": [
+    "clap",
+    "unfreeze"
+   ],
+   "s": "street"
+  },
+  {
+   "v": "VEND",
+   "t": "Hey! Where did these sunglasses come from? ...Actually, I look amazing.",
+   "e": {
+    "vend": "surprise"
+   },
+   "a": "vendor",
+   "hl": [
+    "amazing."
+   ],
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "WHAT?! Kip, you were over there, and now you are over HERE!",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "react",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "One clap, everything stops. Two claps, everything goes. I practised on the sky-bus.",
+   "k": "happy",
+   "p": "shrug",
+   "a": "react",
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "This is huge! You could skip every test! You could be first in every lunch line!",
+   "e": {
+    "max": "happy"
+   },
+   "a": "react",
+   "m": "upbeat",
+   "s": "street"
+  },
+  {
+   "v": "KIP",
+   "t": "Or... we could go to Starlight Mall and try every free sample at the same time.",
+   "k": "excited",
+   "p": "point",
+   "a": "react",
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip. You are a genius.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "react",
+   "s": "street"
+  },
+  {
+   "v": "MAX",
+   "t": "Why does my face feel tickly?",
+   "e": {
+    "max": "confused"
+   },
+   "a": "mustache",
+   "sfx": [
+    "boing"
+   ],
+   "m": "comedic",
+   "s": "street"
+  },
+  {
+   "v": null,
+   "a": "mallOpen",
+   "dur": 1.8,
+   "k": "excited",
+   "p": "idle",
+   "e": {
+    "max": "happy"
+   },
+   "sfx": [
+    "crowd",
+    "chime"
+   ],
+   "m": "upbeat",
+   "s": "mall"
+  },
+  {
+   "v": "ANN",
+   "t": "Welcome to Starlight Mall! Today only: free robot-baked cookies on every level!",
+   "a": "announce",
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Ready? Three, two, one...",
+   "k": "excited",
+   "p": "idle",
+   "a": "ready",
+   "s": "mall"
+  },
+  {
+   "v": null,
+   "a": "clap",
+   "dur": 1.3,
+   "k": "excited",
+   "p": "idle",
+   "z": 1,
+   "sfx": [
+    "clap",
+    "freeze"
+   ],
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Max? Max! ...Oh. Right. You freeze too.",
+   "k": "confused",
+   "p": "shrug",
+   "a": "maxFrozen",
+   "m": "comedic",
+   "s": "mall"
+  },
+  {
+   "v": null,
+   "a": "fountainLook",
+   "dur": 1.8,
+   "k": "excited",
+   "p": "idle",
+   "sfx": [
+    "shimmer"
+   ],
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "The fountain stopped in mid-air. That is so beautiful.",
+   "k": "happy",
+   "p": "idle",
+   "a": "fountain",
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Free cookie. Free cookie. Free smoothie. I am leaving a coin, I am not a criminal.",
+   "k": "happy",
+   "p": "idle",
+   "a": "samples",
+   "sfx": [
+    "pop"
+   ],
+   "s": "mall"
+  },
+  {
+   "v": null,
+   "a": "balloonSee",
+   "dur": 1.2,
+   "k": "surprise",
+   "p": "point",
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Uh oh. Somebody lost a balloon. Let me just tie that back on... extra tight.",
+   "k": "happy",
+   "p": "idle",
+   "a": "balloon",
+   "sfx": [
+    "zip"
+   ],
+   "s": "mall"
+  },
+  {
+   "v": null,
+   "a": "escalator",
+   "dur": 2.6,
+   "k": "neutral",
+   "p": "idle",
+   "sfx": [
+    "echostep"
+   ],
+   "m": "eerie",
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Wait. That person on the escalator. They are... moving.",
+   "k": "fear",
+   "p": "scared",
+   "a": "escSee",
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Hello? Are you freeze-proof too?",
+   "k": "confused",
+   "p": "wave",
+   "a": "escSee",
+   "s": "mall"
+  },
+  {
+   "v": null,
+   "a": "vanish",
+   "dur": 1.6,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "glitch"
+   ],
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Okay. Nope. Nope, nope, nope.",
+   "k": "fear",
+   "p": "scared",
+   "a": "nope",
+   "s": "mall"
+  },
+  {
+   "v": null,
+   "a": "clap2",
+   "dur": 1.1,
+   "k": "fear",
+   "p": "scared",
+   "z": 0,
+   "sfx": [
+    "clap",
+    "unfreeze"
+   ],
+   "s": "mall"
+  },
+  {
+   "v": "MAX",
+   "t": "Whoa. Why am I holding three cookies?",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "after",
+   "m": "comedic",
+   "s": "mall"
+  },
+  {
+   "v": "GIRL",
+   "t": "Mommy, look! My balloon is tied on super tight!",
+   "e": {
+    "girl": "happy"
+   },
+   "a": "girl",
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Max, somebody else was moving. While everything was stopped.",
+   "k": "fear",
+   "p": "idle",
+   "a": "after",
+   "m": "tense",
+   "s": "mall"
+  },
+  {
+   "v": "MAX",
+   "t": "Like a time ninja?",
+   "e": {
+    "max": "confused"
+   },
+   "a": "after",
+   "s": "mall"
+  },
+  {
+   "v": "KIP",
+   "t": "Like a time ninja who was looking right at me.",
+   "k": "fear",
+   "p": "scared",
+   "a": "after",
+   "s": "mall"
+  },
+  {
+   "v": "MAX",
+   "t": "Okay, theory. Maybe it was just a reflection.",
+   "k": "neutral",
+   "p": "idle",
+   "e": {
+    "max": "neutral"
+   },
+   "a": "walk",
+   "m": "eerie",
+   "sfx": [
+    "rain"
+   ],
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "Reflections do not wear hoods, Max.",
+   "k": "angry",
+   "p": "idle",
+   "a": "walk",
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "I need to know if they are real. One more time.",
+   "k": "angry",
+   "p": "idle",
+   "a": "decide",
+   "s": "avenue"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip, maybe do not...",
+   "e": {
+    "max": "fear"
+   },
+   "a": "decide",
+   "s": "avenue"
+  },
+  {
+   "v": null,
+   "a": "clap",
+   "dur": 1.4,
+   "k": "neutral",
+   "p": "idle",
+   "z": 1,
+   "sfx": [
+    "clap",
+    "freeze"
+   ],
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "Whoa. Even the rain stopped. I can walk right through it.",
+   "k": "excited",
+   "p": "idle",
+   "a": "rainWalk",
+   "m": "magic",
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "The whole city is frozen... and I am the only one who can move.",
+   "k": "happy",
+   "p": "idle",
+   "a": "rainWalk",
+   "hl": [
+    "frozen..."
+   ],
+   "s": "avenue"
+  },
+  {
+   "v": null,
+   "a": "crack",
+   "dur": 1.7,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "crack"
+   ],
+   "m": "eerie",
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "What is THAT? Is the air... cracked?",
+   "k": "fear",
+   "p": "scared",
+   "a": "crackSee",
+   "s": "avenue"
+  },
+  {
+   "v": null,
+   "a": "footstep",
+   "dur": 0.75,
+   "k": "surprise",
+   "p": "surprise",
+   "sfx": [
+    "echostep"
+   ],
+   "s": "avenue"
+  },
+  {
+   "v": "HOOD",
+   "t": "Not the only one, Kip.",
+   "k": "fear",
+   "p": "scared",
+   "a": "hoodReveal",
+   "hl": [
+    "not"
+   ],
+   "sfx": [
+    "echostep"
+   ],
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "Who are you? Why are you following me?!",
+   "k": "angry",
+   "p": "point",
+   "a": "face",
+   "m": "tense",
+   "s": "avenue"
+  },
+  {
+   "v": "HOOD",
+   "t": "Every second you freeze is stolen from the future. And the future always collects.",
+   "a": "face",
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "Okay. That is the creepiest thing anyone has ever said to me.",
+   "k": "fear",
+   "p": "scared",
+   "a": "face",
+   "m": "comedic",
+   "s": "avenue"
+  },
+  {
+   "v": "HOOD",
+   "t": "Give me your hands, Kip. Before it is too late.",
+   "a": "reach",
+   "m": "tense",
+   "s": "avenue"
+  },
+  {
+   "v": "KIP",
+   "t": "Absolutely not!",
+   "k": "angry",
+   "p": "point",
+   "a": "reach",
+   "sfx": [
+    "whoosh"
+   ],
+   "s": "avenue"
+  },
+  {
+   "v": null,
+   "a": "runIn",
+   "dur": 2.2,
+   "k": "fear",
+   "p": "idle",
+   "sfx": [
+    "steps",
+    "whoosh"
+   ],
+   "m": "urgent",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "Sorry, Max! You are coming with me!",
+   "k": "fear",
+   "p": "idle",
+   "a": "drag",
+   "sfx": [
+    "scrape"
+   ],
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "dragRun",
+   "dur": 2.4,
+   "k": "fear",
+   "p": "idle",
+   "sfx": [
+    "scrape",
+    "steps"
+   ],
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "Frozen people, frozen people... sorry, sir! ...Why are you so heavy, Max?!",
+   "k": "fear",
+   "p": "idle",
+   "a": "dragRun2",
+   "sfx": [
+    "steps"
+   ],
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "hoodFollow",
+   "dur": 1.8,
+   "k": "fear",
+   "p": "scared",
+   "sfx": [
+    "echostep"
+   ],
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "Clap! Clap!",
+   "k": "angry",
+   "p": "idle",
+   "a": "clapGo",
+   "sfx": [
+    "clap"
+   ],
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "unfreeze",
+   "dur": 1.4,
+   "z": 0,
+   "k": "fear",
+   "p": "idle",
+   "sfx": [
+    "unfreeze",
+    "doors"
+   ],
+   "s": "station"
+  },
+  {
+   "v": "TRAIN",
+   "t": "Doors closing. Line Nine to Chrono District.",
+   "a": "doors",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "...not do that. Wait. Why are we on a train?",
+   "e": {
+    "max": "confused"
+   },
+   "a": "inTrain",
+   "m": "comedic",
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "Long story. Very creepy story.",
+   "k": "fear",
+   "p": "idle",
+   "a": "inTrain",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip... is that your ninja? On the platform?",
+   "e": {
+    "max": "fear"
+   },
+   "a": "window",
+   "m": "eerie",
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "watchRaise",
+   "dur": 2.0,
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "max": "fear"
+   },
+   "sfx": [
+    "ticktock"
+   ],
+   "s": "station"
+  },
+  {
+   "v": "KIP",
+   "t": "The train is going to Chrono District. Where the famous time scientist works.",
+   "k": "confused",
+   "p": "think",
+   "a": "idea",
+   "m": "curious",
+   "s": "station"
+  },
+  {
+   "v": "MAX",
+   "t": "Professor Tock? From the science show? Let us go!",
+   "e": {
+    "max": "happy"
+   },
+   "a": "idea",
+   "s": "station"
+  },
+  {
+   "v": null,
+   "a": "labOpen",
+   "dur": 1.8,
+   "k": "surprise",
+   "p": "idle",
+   "e": {
+    "max": "surprise",
+    "prof": "happy"
+   },
+   "sfx": [
+    "hum"
+   ],
+   "m": "curious",
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "Visitors! Do not touch anything that glows. Or hums. Actually, do not touch anything.",
+   "e": {
+    "prof": "happy"
+   },
+   "a": "greet",
+   "s": "lab"
+  },
+  {
+   "v": "KIP",
+   "t": "Professor, I think I can stop time. And someone in a hood can move when I do it.",
+   "k": "fear",
+   "p": "idle",
+   "a": "talk",
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "Stop time? Ha! Impossible. Unless... were you near this building last night?",
+   "e": {
+    "prof": "confused"
+   },
+   "a": "talk",
+   "s": "lab"
+  },
+  {
+   "v": "KIP",
+   "t": "I walked past here on the way home. There was a big purple flash.",
+   "k": "confused",
+   "p": "think",
+   "a": "talk",
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "My Chrono Pulse! It soaked right into you! Remarkable! Terrible! Mostly terrible!",
+   "e": {
+    "prof": "surprise"
+   },
+   "a": "pulse",
+   "sfx": [
+    "zap"
+   ],
+   "s": "lab"
+  },
+  {
+   "v": "MAX",
+   "t": "Why terrible?",
+   "e": {
+    "max": "fear"
+   },
+   "a": "talk",
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "Time is like ice on a lake. Every time you freeze it, it cracks a little.",
+   "e": {
+    "prof": "neutral"
+   },
+   "a": "holo",
+   "m": "tense",
+   "sfx": [
+    "holo"
+   ],
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "Too many cracks... and time stops. Forever. For everyone.",
+   "e": {
+    "prof": "fear"
+   },
+   "a": "holo",
+   "hl": [
+    "forever."
+   ],
+   "s": "lab"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip. How many times did you freeze it today?",
+   "e": {
+    "max": "fear"
+   },
+   "a": "holo",
+   "s": "lab"
+  },
+  {
+   "v": "KIP",
+   "t": "Um... counting the pigeon and the balloon? Eleven.",
+   "k": "fear",
+   "p": "shrug",
+   "a": "holo",
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "ELEVEN?!",
+   "e": {
+    "prof": "surprise"
+   },
+   "a": "eleven",
+   "hl": [
+    "eleven?!"
+   ],
+   "sfx": [
+    "boing"
+   ],
+   "s": "lab"
+  },
+  {
+   "v": null,
+   "a": "doorHiss",
+   "dur": 1.3,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "prof": "surprise",
+    "max": "fear"
+   },
+   "sfx": [
+    "hiss"
+   ],
+   "s": "lab"
+  },
+  {
+   "v": "HOOD",
+   "t": "Twelve. If you count the milk.",
+   "a": "enter",
+   "m": "eerie",
+   "s": "lab"
+  },
+  {
+   "v": "KIP",
+   "t": "It is YOU!",
+   "k": "angry",
+   "p": "point",
+   "a": "enter",
+   "hl": [
+    "you!"
+   ],
+   "s": "lab"
+  },
+  {
+   "v": null,
+   "a": "hoodOff",
+   "dur": 2.4,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "prof": "surprise",
+    "max": "surprise"
+   },
+   "sfx": [
+    "shimmer"
+   ],
+   "m": "magic",
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "Wren?! My daughter? You disappeared a year ago!",
+   "e": {
+    "prof": "surprise",
+    "wren": "sad"
+   },
+   "a": "reveal",
+   "s": "lab"
+  },
+  {
+   "v": "WREN",
+   "t": "I never left, Dad. Your first Chrono Pulse hit me. I have been living between the seconds.",
+   "e": {
+    "wren": "sad"
+   },
+   "a": "reveal",
+   "m": "sad",
+   "s": "lab"
+  },
+  {
+   "v": "WREN",
+   "t": "I followed you to stop you, Kip. Not to hurt you. The cracks are almost joined.",
+   "e": {
+    "wren": "neutral"
+   },
+   "a": "reveal",
+   "s": "lab"
+  },
+  {
+   "v": "KIP",
+   "t": "Then why did you not just SAY that?",
+   "k": "angry",
+   "p": "shrug",
+   "a": "reveal",
+   "m": "comedic",
+   "s": "lab"
+  },
+  {
+   "v": "WREN",
+   "t": "I tried. You screamed and dragged your friend onto a train.",
+   "e": {
+    "wren": "happy"
+   },
+   "a": "reveal",
+   "s": "lab"
+  },
+  {
+   "v": "MAX",
+   "t": "He did WHAT?",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "reveal",
+   "s": "lab"
+  },
+  {
+   "v": null,
+   "a": "alarm",
+   "dur": 1.4,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "prof": "fear",
+    "wren": "fear",
+    "max": "fear"
+   },
+   "sfx": [
+    "alarm"
+   ],
+   "m": "urgent",
+   "s": "lab"
+  },
+  {
+   "v": "PROF",
+   "t": "The crack monitor! They are joining up! Everybody hold on to some...",
+   "e": {
+    "prof": "fear"
+   },
+   "a": "alarm2",
+   "s": "lab"
+  },
+  {
+   "v": null,
+   "a": "bigFreeze",
+   "dur": 2.4,
+   "z": 1,
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "wren": "fear"
+   },
+   "sfx": [
+    "bigfreeze"
+   ],
+   "m": "silence",
+   "s": "lab"
+  },
+  {
+   "v": "KIP",
+   "t": "Clap, clap! CLAP, CLAP! Why is it not working?!",
+   "k": "fear",
+   "p": "idle",
+   "a": "clapFail",
+   "sfx": [
+    "clap"
+   ],
+   "s": "lab"
+  },
+  {
+   "v": "WREN",
+   "t": "Because time is not paused anymore, Kip. It is broken.",
+   "e": {
+    "wren": "fear"
+   },
+   "a": "broken",
+   "m": "tense",
+   "hl": [
+    "broken."
+   ],
+   "s": "lab"
+  },
+  {
+   "v": null,
+   "a": "frozenOpen",
+   "dur": 2.4,
+   "k": "fear",
+   "p": "idle",
+   "e": {
+    "wren": "neutral"
+   },
+   "sfx": [
+    "wind"
+   ],
+   "m": "eerie",
+   "s": "frozen"
+  },
+  {
+   "v": "WREN",
+   "t": "The Chrono Core is on top of the Tock Tower. If we both touch it, the cracks will heal.",
+   "e": {
+    "wren": "neutral"
+   },
+   "a": "plan",
+   "s": "frozen"
+  },
+  {
+   "v": "KIP",
+   "t": "Then why do you sound sad about it?",
+   "k": "confused",
+   "p": "think",
+   "a": "plan",
+   "s": "frozen"
+  },
+  {
+   "v": "WREN",
+   "t": "Because the Core takes back all the stolen time. And our power goes with it. Forever.",
+   "e": {
+    "wren": "sad"
+   },
+   "a": "plan",
+   "m": "sad",
+   "s": "frozen"
+  },
+  {
+   "v": "KIP",
+   "t": "So I would be... normal again.",
+   "k": "sad",
+   "p": "sad",
+   "a": "plan",
+   "s": "frozen"
+  },
+  {
+   "v": "WREN",
+   "t": "Normal. Late for the bus. Spilling the milk.",
+   "e": {
+    "wren": "happy"
+   },
+   "a": "plan",
+   "s": "frozen"
+  },
+  {
+   "v": "KIP",
+   "t": "Honestly? I kind of miss normal.",
+   "k": "happy",
+   "p": "idle",
+   "a": "plan",
+   "m": "warm",
+   "s": "frozen"
+  },
+  {
+   "v": null,
+   "a": "quake",
+   "dur": 1.6,
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "wren": "fear"
+   },
+   "sfx": [
+    "crack",
+    "rumble"
+   ],
+   "m": "urgent",
+   "s": "frozen"
+  },
+  {
+   "v": "WREN",
+   "t": "The street is falling apart! Jump on the hover-cars!",
+   "e": {
+    "wren": "fear"
+   },
+   "a": "quake2",
+   "s": "frozen"
+  },
+  {
+   "v": "KIP",
+   "t": "Falling APART?!",
+   "k": "fear",
+   "p": "scared",
+   "a": "quake2",
+   "hl": [
+    "apart?!"
+   ],
+   "s": "frozen"
+  },
+  {
+   "v": null,
+   "a": "carJump",
+   "dur": 3.4,
+   "k": "fear",
+   "p": "idle",
+   "e": {
+    "wren": "neutral"
+   },
+   "sfx": [
+    "whoosh",
+    "land",
+    "whoosh",
+    "land",
+    "crash"
+   ],
+   "s": "frozen"
+  },
+  {
+   "v": "KIP",
+   "t": "I am okay! I am okay! I am standing on a frozen pigeon, but I am okay!",
+   "k": "happy",
+   "p": "cheer",
+   "a": "landed",
+   "m": "comedic",
+   "s": "frozen"
+  },
+  {
+   "v": "WREN",
+   "t": "Keep going! Up the sky-stairs!",
+   "e": {
+    "wren": "happy"
+   },
+   "a": "landed",
+   "m": "urgent",
+   "s": "frozen"
+  },
+  {
+   "v": null,
+   "a": "coreOpen",
+   "dur": 2.2,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "wren": "surprise"
+   },
+   "sfx": [
+    "hum",
+    "shimmer"
+   ],
+   "m": "magic",
+   "s": "core"
+  },
+  {
+   "v": "WREN",
+   "t": "There it is. Ready? On three.",
+   "e": {
+    "wren": "neutral"
+   },
+   "a": "ready",
+   "s": "core"
+  },
+  {
+   "v": "KIP",
+   "t": "Wait. Wren... if we do this, you lose your power too. You have had it for a whole year.",
+   "k": "sad",
+   "p": "idle",
+   "a": "ready",
+   "m": "warm",
+   "s": "core"
+  },
+  {
+   "v": "WREN",
+   "t": "A whole year as the only person awake in a frozen world. Trust me, Kip. It gets lonely.",
+   "e": {
+    "wren": "sad"
+   },
+   "a": "ready",
+   "s": "core"
+  },
+  {
+   "v": "KIP",
+   "t": "Then let us go back. Together. One...",
+   "k": "happy",
+   "p": "idle",
+   "a": "hands",
+   "s": "core"
+  },
+  {
+   "v": "WREN",
+   "t": "Two...",
+   "e": {
+    "wren": "happy"
+   },
+   "a": "hands",
+   "s": "core"
+  },
+  {
+   "v": "KIP",
+   "t": "THREE!",
+   "k": "excited",
+   "p": "idle",
+   "a": "touch",
+   "chorus": [
+    "WREN"
+   ],
+   "hl": [
+    "three!"
+   ],
+   "s": "core"
+  },
+  {
+   "v": null,
+   "a": "restore",
+   "dur": 3.8,
+   "z": 0,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "wren": "surprise"
+   },
+   "sfx": [
+    "shatter",
+    "boom"
+   ],
+   "m": "silence",
+   "s": "core"
+  },
+  {
+   "v": "PROF",
+   "t": "...thing! ...Oh. Hello. Did something just happen?",
+   "e": {
+    "prof": "confused",
+    "max": "confused",
+    "wren": "happy"
+   },
+   "a": "wake",
+   "m": "warm",
+   "s": "after"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip! You were over there, and now you are over here! AGAIN!",
+   "e": {
+    "max": "surprise"
+   },
+   "a": "wake",
+   "s": "after"
+  },
+  {
+   "v": "KIP",
+   "t": "Max, I will explain everything. Mostly. Some of it. Over pizza.",
+   "k": "happy",
+   "p": "shrug",
+   "a": "wake",
+   "s": "after"
+  },
+  {
+   "v": "WREN",
+   "t": "Hi, Dad. I am back. For real this time.",
+   "e": {
+    "wren": "happy",
+    "prof": "sad"
+   },
+   "a": "hug",
+   "s": "after"
+  },
+  {
+   "v": "PROF",
+   "t": "Oh, Wren. A whole year... and you have not aged a day. Well, you have aged a year. You know what I mean.",
+   "e": {
+    "prof": "happy"
+   },
+   "a": "hug",
+   "s": "after"
+  },
+  {
+   "v": null,
+   "a": "testClap",
+   "dur": 1.6,
+   "k": "confused",
+   "p": "idle",
+   "sfx": [
+    "clap"
+   ],
+   "s": "after"
+  },
+  {
+   "v": "KIP",
+   "t": "It is gone. I am just a kid who claps now.",
+   "k": "happy",
+   "p": "shrug",
+   "a": "testClap2",
+   "s": "after"
+  },
+  {
+   "v": "MAX",
+   "t": "Kip, you were always a kid who claps.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "testClap2",
+   "sfx": [
+    "boing"
+   ],
+   "s": "after"
+  },
+  {
+   "v": "KIP",
+   "t": "A brand-new day. No powers. No cracks. Just a perfectly normal sky-bus ride.",
+   "k": "happy",
+   "p": "idle",
+   "e": {
+    "max": "neutral"
+   },
+   "a": "morning",
+   "m": "curious",
+   "s": "ending"
+  },
+  {
+   "v": "MAX",
+   "t": "Yeah... about normal. This morning I sneezed, and the birds outside just... stopped. In the air.",
+   "e": {
+    "max": "confused"
+   },
+   "a": "morning",
+   "s": "ending"
+  },
+  {
+   "v": "KIP",
+   "t": "Max. Did you walk past the Chrono Lab last night?",
+   "k": "fear",
+   "p": "idle",
+   "a": "suspect",
+   "m": "tense",
+   "s": "ending"
+  },
+  {
+   "v": "MAX",
+   "t": "Maybe? Why? Ah... ah...",
+   "e": {
+    "max": "confused"
+   },
+   "a": "suspect",
+   "s": "ending"
+  },
+  {
+   "v": null,
+   "a": "sneeze",
+   "dur": 0.8,
+   "k": "fear",
+   "p": "scared",
+   "e": {
+    "max": "surprise"
+   },
+   "sfx": [
+    "sneeze"
+   ],
+   "m": "silence",
+   "s": "ending"
+  },
+  {
+   "v": null,
+   "a": "stopped",
+   "dur": 1.6,
+   "z": 1,
+   "e": {
+    "max": "surprise"
+   },
+   "sfx": [
+    "freeze"
+   ],
+   "s": "ending"
+  },
+  {
+   "v": "MAX",
+   "t": "Uh oh. Kip? Kip?! ...Oh, this is going to be SO much fun.",
+   "e": {
+    "max": "happy"
+   },
+   "a": "maxPower",
+   "m": "comedic",
+   "hl": [
+    "fun."
+   ],
+   "s": "ending"
+  },
+  {
+   "v": null,
+   "a": "maxClap",
+   "dur": 1.2,
+   "z": 0,
+   "k": "surprise",
+   "p": "surprise",
+   "e": {
+    "max": "happy"
+   },
+   "sfx": [
+    "clap",
+    "unfreeze"
+   ],
+   "s": "ending"
+  },
+  {
+   "v": "KIP",
+   "t": "Why do I have a mustache?!",
+   "k": "surprise",
+   "p": "surprise",
+   "a": "kipStache",
+   "hl": [
+    "mustache?!"
+   ],
+   "s": "ending"
+  },
+  {
+   "v": "KIP",
+   "t": "So... what would YOU do if you could stop time? Tell us in the comments!",
+   "k": "happy",
+   "p": "point",
+   "a": "camera",
+   "m": "upbeat",
+   "s": "ending"
+  },
+  {
+   "v": "N",
+   "t": "Next time: What if you woke up inside a video game?",
+   "a": "outro",
+   "hl": [
+    "video",
+    "game?"
+   ],
+   "s": "outro"
+  }
+ ]
+}
